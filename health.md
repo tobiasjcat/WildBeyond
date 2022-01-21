@@ -9,6 +9,8 @@
 9/9 hp  
 1/1 hit die  
 
+8gp
+4gp and a rope of jump
 
 ## Equipment
 - Scale mail armor (disadvantage to stealth)

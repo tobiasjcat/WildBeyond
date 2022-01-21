@@ -23,9 +23,27 @@ There is a rail line with carts with seats for 8. We are riding the carts with a
 The booth is a wooden, mechanical dummy. Tasha is a witch-queen who wrote the Demonomicon. Fortune-telling is out of character for her. A halfling couple, in front of us, proposes and the recipient starting rolling on the ground laughing. The proposer ran into the nearby hall of illusions to hide out of embarrassment. Kadayif discovered that perhaps the proposee was magically induced to laugh. Inside the hall of illusions is a series of mirrors which initially reflect our childlike appearances. Later in the maze, our reflections get older. We found the proposer looking at a mirror with a little girl in a pig-mask looking back at him. The proposer is named Rueben. Eventually they meet back up outside the hall and make amends.
 With that complete, we all approached the booth to get a fortune but fell under a laughing spell. Still got a fortune though: an embossed card "Scabbatha Nightshade and can't remember the first creature she sees when she wakes up"
 
-After we all got our weird fortunes we headed towards the lost property booth to look for the things we have lost. We met Dirlagraun outside the lost property. Dirlagraun loves children and children love playing with her. One child runs away. We chased the child and spotted the girl in the pig-mask. She says her name is Sow-pig. Her skin is cold and blue-grey. She says "I can't take anything from you, you've got a ticket."
+After we all got our weird fortunes we headed towards the lost property booth to look for the things we have lost. We met Dirlagraun outside the lost property. Dirlagraun loves children and children love playing with her. One child runs away.
 
-Back at lost-and-found, Dirlagraun apologizes for spooking the child who ran. The child had picked up a ball that belonged to her lost child, Star. We told her that we would help find Star in the feywild. 
+We chased the child and spotted the girl in the pig-mask. She says her name is Sow-pig. Her skin is cold and blue-grey. She says "I can't take anything from you, you've got a ticket."
+
+Back at lost-and-found, Dirlagraun apologizes for spooking the child who ran. The child had picked up a ball that belonged to her lost child, Star. We told her that we would help find Star in the feywild.
+<hr>
+
+Next stop Calliope. A goblin dressed as a ladybug shakes a cup at us. Ernest the Monkey is playing the instrument. I and Oswald gave him buttons. The Calliope plays music that reflects the mood of the carnival. Ernest is in the body of his trained monkey Bubbles. Bubbles has the body. The body may be balding. Suddenly the Calliope starts playing discordant notes along with the regular notes. The discordant notes stop for a second and a person hiding in the shadows begins to run. I tripped them telekinetically and Oswald grabbed em. The target looks human but patting her down I felt feathers. It's the rebellious kenku who has been causing problems! She says she's on a mission to find her mission patron Zybilna. Her name is Kettlesteam. She wanted to cause a ruckus until the owners show her how to get to the feywild. We released her under the understanding that she would return after the big-top extravaganza.
+
+We were on the way to the feasting grounds when we passed a commotion at the Carousel. Diana Cloppington the centaur, is complaining the Carousel won't stop. She's quite upset that she can't fit onto the ride. Diana told Alexandra that she made a deal with a hag to be reunited with her lost warhorse and that's how she ended up as a centaur. A few of us forced our way to the center of the Carousel and were able to stop the gear mechanism to stop the Carousel. Diana told us that the unicorns on the Carousel were made by a hag and have powers of divination. If we name the unicorns we can talk to them. Four of them are partially named. Alexandra immediately figured out their names and we started riding them. They whispered mysterious things at us. Mine whispered with Oswald "Scabbatha Nightshade, granny Nightshade to some. Has the things we seek, you must find her to get your things back. Her lair is a dead hollowed out tree in a sylvan forest. She's part of the hourglass coven with her sisters who she hates but needs." Diana tends to our wounds before we go.
+
+We arrive a the feasting orchard. The trees have fruit. There is a fairycake eating contest going on. Craig from goblin wresting is competing as well. Alexandra won after beating me out by a single cupcake.
+
+After recovering from our cupcake feast, we went to the dragonfly rides. Northwind the treent told us that Thaco used to be a knife thrower and Mr. Light and Mr. Witch traded the carnival for something. A dwarf falls from his dragonfly during the ride but Casamir cast feather fall on the dwarf and landed softly on the ground. On the dragonfly, I noticed Kettlesteam by the dragonfly rides. I spotted the moon-masked woman/ghost again.
+
+Next to the Gondola Swans. The swans are giant and pulling 8 person boats. The boat going slowly around the entire park. The swan asks if we are enjoying the "swandolas". Her name is Featherine. She told us about how sad it is that Candlefoot and Palasha broke up. Candlefoot hasn't spoken sense. Kadayif spotted the flog/girl/ghost.
+
+<hr>
+Be sure to fix Candlefoot's relationship for mirth points.
+
+
 
 
 .
