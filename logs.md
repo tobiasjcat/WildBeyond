@@ -34,7 +34,7 @@ Next stop Calliope. A goblin dressed as a ladybug shakes a cup at us. Ernest the
 
 We were on the way to the feasting grounds when we passed a commotion at the Carousel. Diana Cloppington the centaur, is complaining the Carousel won't stop. She's quite upset that she can't fit onto the ride. Diana told Alexandra that she made a deal with a hag to be reunited with her lost warhorse and that's how she ended up as a centaur. A few of us forced our way to the center of the Carousel and were able to stop the gear mechanism to stop the Carousel. Diana told us that the unicorns on the Carousel were made by a hag and have powers of divination. If we name the unicorns we can talk to them. Four of them are partially named. Alexandra immediately figured out their names and we started riding them. They whispered mysterious things at us. Mine whispered with Oswald "Scabbatha Nightshade, granny Nightshade to some. Has the things we seek, you must find her to get your things back. Her lair is a dead hollowed out tree in a sylvan forest. She's part of the hourglass coven with her sisters who she hates but needs." Diana tends to our wounds before we go.
 
-We arrive a the feasting orchard. The trees have fruit. There is a fairycake eating contest going on. Craig from goblin wresting is competing as well. Alexandra won after beating me out by a single cupcake.
+We arrive a the feasting orchard. The trees have fruit. There is a fairycake eating contest going on. Craig from goblin wresting is competing as well. Alexandra won after beating me out by a single cupcake. Overall we ate more than 40 cupcakes.
 
 After recovering from our cupcake feast, we went to the dragonfly rides. Northwind the treent told us that Thaco used to be a knife thrower and Mr. Light and Mr. Witch traded the carnival for something. A dwarf falls from his dragonfly during the ride but Casamir cast feather fall on the dwarf and landed softly on the ground. On the dragonfly, I noticed Kettlesteam by the dragonfly rides. I spotted the moon-masked woman/ghost again.
 
@@ -42,6 +42,58 @@ Next to the Gondola Swans. The swans are giant and pulling 8 person boats. The b
 
 <hr>
 Be sure to fix Candlefoot's relationship for mirth points.
+
+The Big Top Extravaganza is about to begin. As we headed over there Casamir ran into an elf wearing a poorly fitting suit. Tintagel is nervous about his first performance on the Big Top Extravaganza. Tintagel invites us into the dressing room. A thin elven man, Mr. Light, is wearing a suit of mirrors. Mr Light is concerned with performers dropping out. Mr Light. Burley is there too.
+We signed up to fill in some of the acts by live acting Alexandra's fairy tails.
+Oswald and I were in a unicorn costume riding a tandem bicycle.
+Burly wants us to meet up after the performance.
+The first performer did a very impressive fire-breathing act.
+Next up was Candlefoot, a lanky mime. He does sleight of hand tricks and people enjoy it. He does copper-into-gold, coin-into-goldfish and goldfish-into-bigger-fish.
+Tintagel goes next. Takes a rabbit out of a hat, and is very nervous. I volunteered to be sawed in half. It went flawlessly and Tintagel forgot to ask for a the potion of revivify he gave me back.
+Bugbear lifts several people on a dumb-bell. He then does tug of war with Oswald and I.
+Our performance went well.
+
+Afterwards Burly says he'll lead us to Mr. Lights room to pick out payment in. Burly doesn't know where the entrance to the feywild is but thinks his brother is there. Burly says that if we stole Mr Witch's pocket-watch, we could force him to tell us how to get to the feywild. The easiest way to get close to Mr Witch is during the crowning of the Monarch. Dirlagraun could help us there.
+
+Thaco is standing outside Mr. Light's room. Both Mr's are in the carriage claim not to know how to get to the feywild but Kadayif can tell they are lying.
+They have
+- [ ] Alchemy Jug
+- [x] Hewards spice pouch (Kadayif)
+- [ ] Self mending rope
+- [ ] Tankard of sobriety
+- [ ] A wand of wonder
+- [x] Periapt (necklace) of wound closure (Oswald)
+- [x] Bag of holding (used) (Pytchley)
+- [x] Horseshoe of hold iron (Casimir)
+- [x] Loaf of bread of breaking (Alexandra)
+- [ ] Set of Mage Armor
+
+Casimir managed to fool Mr Witch into give up his watch. We traded it back to him for information on how to get to the feywild. In front of a mirror in the hall of illusions, we must say
+```
+Hither, thither, here and there,
+Wander yonder, show me where
+```  
+
+Thaco made us some impressive balloon animals. I gave my balloon to Oroonoko and gave him a pat on the back.
+
+We went back to the Calliope and picked up a note from Kettlesteam who told us to meet at Silversong lake. Normally Palasha sings here.
+Palasha sings a glorious haunting song. The song leads water to shapes rising from the water.
+Kettlesteam heckled Palasha in Candlefoot's voice so we grabbed her again. She admitted to stealing Candlefoot's voice so we went to have her give Candlefoot his voice back. Meanwhile Alexandra and Casimir comforted Palasha.
+
+At the hall of illusions, Kettlesteam returned Candlefoot's voice to him by giving him a cornhusk doll. Candlefoot is worried that Palasha won't forgive him.  
+
+We dropped off Kettlesteam with Burley and Mr Witch. Burley kicks out Kettlesteam who says she won't come back tomorrow. Mr. Witch was still upset but I think he's happy.
+
+We then reunited the voiced Candlefoot with Palasha. Candlefoot gave me an acting lesson in gratitude.
+
+A strange severe woman customer, named Alissa, taps Casimir on the shoulder asking him to find her master's lady-love who is hiding out with her sisters in the fey-wild. She is
+- the pretty sister
+- Common is not her first language
+- Has some elven ancestry
+- She has crowsfeet around her eyes.
+Her master will pay handsomely to know where she is. She gave Casimir a coin of a weird foreign currency. `Coin with an infinity symbol and an arrow pointing down from it on one side, a hand with 6 fingers on the other.`  
+
+We went to the Snail races. Two goblins administer the races. I raced on Flowerflash but came in third. Kadayif won.
 
 
 

@@ -18,6 +18,11 @@
 - Disguise kit
 - A deck of cards
 - Carnival Uniform (greasy overalls)
+- Potion of revivify
+- Bag of holding, with glitter
+- Impressive balloon octopus from Thaco (given to Oroonoko)
+- DVD of mulan rogue, go-go boots and fishnets
+
 
 
 ## Features and traits
