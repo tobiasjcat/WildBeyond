@@ -28,9 +28,9 @@ Madryck Roslof
 - [ ] Lightening Dome
 
 # Small Stalls:
-- [ ] Almiraj Ring Toss
-- [ ] Outstare the Cyclops
-- [ ] Guess the Feathers on the Cockatrice
-- [ ] Gnome Poetry Contest
-- [ ] Catch the Dragon By The Tail
-- [ ] Goblin Wrestling
+- [x] Almiraj Ring Toss
+- [x] Outstare the Cyclops
+- [x] Guess the Feathers on the Cockatrice
+- [x] Gnome Poetry Contest
+- [x] Catch the Dragon By The Tail
+- [x] Goblin Wrestling

@@ -22,8 +22,14 @@
 - Bag of holding, with glitter
 - Impressive balloon octopus from Thaco (given to Oroonoko)
 - DVD of mulan rogue, go-go boots and fishnets
-
-
+- 4x prize token
+-- 1 set of false wooden teeth
+-- Pixie dust
+-- Witchlight branded wine
+-- cuddly spider of spiderclimb
+-- wizard puppet of minor illusion 3x
+- Scatterleaf tea
+-- scattering the leaves in 5ft circle, equivalent of protection of good and evil
 
 ## Features and traits
 - Telekinetic

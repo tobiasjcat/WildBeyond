@@ -94,6 +94,18 @@ A strange severe woman customer, named Alissa, taps Casimir on the shoulder aski
 Her master will pay handsomely to know where she is. She gave Casimir a coin of a weird foreign currency. `Coin with an infinity symbol and an arrow pointing down from it on one side, a hand with 6 fingers on the other.`  
 
 We went to the Snail races. Two goblins administer the races. I raced on Flowerflash but came in third. Kadayif won.
+<hr>
+We are going to the small stalls. We all did terribly at the Almiraj Ring Toss. We mostly outstared the Cyclops. At Catch the Dragon by the Tail, the dragon is named Applesauce. At the gnome poetry contest I nailed the poetry. Oswald bested the goblin who has been needling him in the wrestling match. I guessed the right number of feathers on the Cockatrice Lula.
+There is an Aladrin at the prize table. There are circlets of fey-kind which will daily make us more-resemble fey. We took our prizes.
+
+We then went the the lightning dome and prepped for a fight. After three rounds we defeated a scary clown.
+
+Next on the trip is the Bubble-pop Teapot. There are a bunch of goblins drinking tea. Treaclwise is the ride manager. The goblins are talking in non-sense.
+```The Baked Bean's skin and blisters came to visit. Now there's no Frog and Toad to the palace, just ball and chalk.
+The dustbin lids with no bread and honey get a half-inch from the three tea leaves of the skins and blisters.
+```
+
+
 
 
 
