@@ -104,7 +104,23 @@ Next on the trip is the Bubble-pop Teapot. There are a bunch of goblins drinking
 ```The Baked Bean's skin and blisters came to visit. Now there's no Frog and Toad to the palace, just ball and chalk.
 The dustbin lids with no bread and honey get a half-inch from the three tea leaves of the skins and blisters.
 ```
+<hr>
+We visited the Pixie Kingdom. Jeremy Plum. I am Dudley Dimple and Oroonoko is Frogface. They shrunk us down to the size of the tiny kingdom. Pinecone is here to ride. Biscuit the hamster is powering the mini ferris wheel. We learned that Burley is a philosopher. Don't fuss with the archfey's rules. Each archfey has a domain with it's own rules.
+Zybilna says
+no hurting children
+no stealing
+don't be rude
+We have been talking to Puddle-mud. Travel is difficult, things take various times to get to places. Feelings effect the environment though the archfey's feelings are far more impactful. Don't let the fey have anything. Thank you acknowledges a debt.
+After the pixie kingdom, we went to the coronation of the Witchlight Monarch. Alexandra won the crown.
 
+find the alucorn? Blavorna Blightstraw owns all this land.
+We entered the hall of illusions and saw our young selves in the mirrors. Mr. witch opened the portal. Entrance order was Kadayif, Casimir, Alexandra, Pytchley and Oswald. In the tunnels we spotted the mysterious thieves. The frog lady has a big mountain, sow pig has a big forest. We arrived on a quarter mile wide bridge in Hither. The bridge covers a swamp which stinks of peat and decay. Mushrooms cover the lower part of the pillars. There is a lot of fog around here. We are a hundred feet up. We spotted a distant balloon in the sky spinning wildly in the sky.
+We safely climbed down the bridge into the swamp below. We hear a strange march with bag-pipes coming towards us. Agdon Longscarf. Six bi-pedal rabbits and a snail. We defeated the harengons, the ran and we kept their giant Snail, Agdon. There are a lot of carrots in the snails bags. We named it Agdon Wetscarf.
+We found a raft and dragged it through it the swamp so that Alexandra doesn't get her shoes dirty.
+
+<hr>
+
+We found a shepherds crook but sized for a pixie and a large bag of truffles. As we were walking the mud, we run into a very muddy patch.  
 
 
 

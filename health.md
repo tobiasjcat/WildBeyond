@@ -5,8 +5,8 @@
 - Initiative 1
 - speed 30
 
-9 max hit points, 1 hit die  
-9/9 hp  
+14 max hit points, 2 hit die  
+14/14 hp  
 1/1 hit die  
 
 8gp
@@ -23,6 +23,7 @@
 - Impressive balloon octopus from Thaco (given to Oroonoko)
 - DVD of mulan rogue, go-go boots and fishnets
 - 4x prize token
+- A cookie cutter shaped like a unicorn. 
 -- 1 set of false wooden teeth
 -- Pixie dust
 -- Witchlight branded wine
@@ -47,6 +48,14 @@ Can have up to three items enchanted. Can enchanted an object in an action to
 - Store a recorded message, can be tapped to play
 - Continuously emit an odor or non-verbal sound perceptible up to 10 ft away
 - Visual effect and/or up to 25 words  to appear  
+
+### Infusions
+At the end of a long rest, you can touch an item to make it magical. If it needs attunement, that can happen immediately only after infusion. Infusions remain indefinitely.
+4 known, 2 at a time
+- Enhanced Weapon
+- Replicate Magical Item
+- Enhanced Defense
+-
 
 ### Cantrips
 - Thaumaturgy
