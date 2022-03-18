@@ -120,9 +120,15 @@ We found a raft and dragged it through it the swamp so that Alexandra doesn't ge
 
 <hr>
 
-We found a shepherds crook but sized for a pixie and a large bag of truffles. As we were walking the mud, we run into a very muddy patch.  
+We found a shepherds crook but sized for a pixie and a large bag of truffles. As we were walking the mud, we run into a very muddy patch. From it mud-mephits appeared and demanded we answer their riddle. I got it on the first try. They told us Elmer is the man in the tower who made this area muddy. It is still twilight. A gord shaped like a little dragon.
+The water level is slowly starting to rise and develops a flow against us. We arrived at an overflowing well. The geyser is 30ft tall. On top of the geyser is floating a bottle labeled "Rain water from the feywild". Bavlorna makes the well do this. We learn Elmer was a hobgoblin.
+Can only sing for next three hours. We encountered two beaverfolk arguing in a pair of rowboats. The porcupine and the woodpecker riddle is causing this argument.    
 
-
+The tower appears before us. It is tilted. Around the base are thick brambles. Hanging from the tower is a hot air balloon. Two serpents are asleep in the brambles. The pilot wigglewog did not survive. Sir Talavar. A shadowy hand pulls the basket into the tower. There are actually two snakes sewed together into one huge snake. A "Snans". These snakes could have been revived from death.
+Inside the tower there are a bunch of supplies piled up on the side of the tower which has tilted towards. There are a few barrels of carrots tied to a broken pipe in the floor. There are a lot of broken pipes in the room. There is a chain connected to a shower head.
+Upstairs the room is darkened by closed blinds. It is a cozy room with decent furniture. We found a shadow mastiff named Wover. There are rabbit hunting books. Moosesnakes and me. The cushions are held together.
+The third floor is a kitchen/workspace. There are geological logs that may mark wells. The logs detail maintenance going back ten years. He has a decanter of endless water that he was using to maintain the wells. The maps show a tree-stump connected with a tunnel.
+The forth floor is covered in webbing. There is a birdcage with a fairydragon straining to get out. The room is dark. 
 
 
 

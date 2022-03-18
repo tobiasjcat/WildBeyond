@@ -23,14 +23,15 @@
 - Impressive balloon octopus from Thaco (given to Oroonoko)
 - DVD of mulan rogue, go-go boots and fishnets
 - 4x prize token
-- A cookie cutter shaped like a unicorn. 
+- A cookie cutter shaped like a unicorn.
 -- 1 set of false wooden teeth
--- Pixie dust
+-- Pixie dust. One minute of limited flying.
 -- Witchlight branded wine
 -- cuddly spider of spiderclimb
 -- wizard puppet of minor illusion 3x
 - Scatterleaf tea
 -- scattering the leaves in 5ft circle, equivalent of protection of good and evil
+- A potion of disrespect. Advantage on 3 intimidation checks in the next hour.
 
 ## Features and traits
 - Telekinetic
@@ -47,7 +48,7 @@ Can have up to three items enchanted. Can enchanted an object in an action to
 - Shed bright light 5ft, dim light 5ft more
 - Store a recorded message, can be tapped to play
 - Continuously emit an odor or non-verbal sound perceptible up to 10 ft away
-- Visual effect and/or up to 25 words  to appear  
+- Visual effect and/or up to 25 words to appear  
 
 ### Infusions
 At the end of a long rest, you can touch an item to make it magical. If it needs attunement, that can happen immediately only after infusion. Infusions remain indefinitely.
