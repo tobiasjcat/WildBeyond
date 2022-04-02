@@ -126,9 +126,20 @@ Can only sing for next three hours. We encountered two beaverfolk arguing in a p
 
 The tower appears before us. It is tilted. Around the base are thick brambles. Hanging from the tower is a hot air balloon. Two serpents are asleep in the brambles. The pilot wigglewog did not survive. Sir Talavar. A shadowy hand pulls the basket into the tower. There are actually two snakes sewed together into one huge snake. A "Snans". These snakes could have been revived from death.
 Inside the tower there are a bunch of supplies piled up on the side of the tower which has tilted towards. There are a few barrels of carrots tied to a broken pipe in the floor. There are a lot of broken pipes in the room. There is a chain connected to a shower head.
-Upstairs the room is darkened by closed blinds. It is a cozy room with decent furniture. We found a shadow mastiff named Wover. There are rabbit hunting books. Moosesnakes and me. The cushions are held together.
+Upstairs the room is darkened by closed blinds. It is a cozy room with decent furniture. We found a shadow mastiff named "Wover". There are rabbit hunting books. Moosesnakes and me. The cushions are held together.
 The third floor is a kitchen/workspace. There are geological logs that may mark wells. The logs detail maintenance going back ten years. He has a decanter of endless water that he was using to maintain the wells. The maps show a tree-stump connected with a tunnel.
-The forth floor is covered in webbing. There is a birdcage with a fairydragon straining to get out. The room is dark. 
+The forth floor is covered in webbing. There is a birdcage with a fairydragon straining to get out. The room is dark.
+
+<hr>
+
+Elmer is a man-spider suspended from the ceiling. He bit me twice and I passed out. Eventually Elmer surrendered to us. He thought that if he brought the fairydragon to Bavlorna, she will remove the curse that makes him a man-spider.
+Bavlorna is in downfall where she holds court. She's doesn't like to leave downfall. Hither, Thither and Yon are locations.
+Sir Talavar, was imprisoned in downfall when wigglewog, the bullywog was leading him. Mogwart was helping Sir Talavar at the balloon factory.  
+I found abjuration magic reinforcing the cage.  
+Sue at The End of the Road, might know more about what's going on or have a way to get Talavar out. The watcher is a serpent with moose antlers that lives up north. He is precient.  
+He warns us that Bavlorna is much tougher than Elmer. She makes some good deals and some bad deals.
+
+<hr>
 
 
 

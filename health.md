@@ -6,7 +6,7 @@
 - speed 30
 
 14 max hit points, 2 hit die  
-14/14 hp  
+1/14 hp   
 1/1 hit die  
 
 8gp
