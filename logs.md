@@ -136,7 +136,7 @@ Elmer is a man-spider suspended from the ceiling. He bit me twice and I passed o
 Bavlorna is in downfall where she holds court. She's doesn't like to leave downfall. Hither, Thither and Yon are locations.
 Sir Talavar, was imprisoned in downfall when wigglewog, the bullywog was leading him. Mogwart was helping Sir Talavar at the balloon factory.  
 I found abjuration magic reinforcing the cage.  
-Sue at The End of the Road, might know more about what's going on or have a way to get Talavar out. The watcher is a serpent with moose antlers that lives up north. He is precient.  
+Sue at The End of the Road, might know more about what's going on or have a way to get Talavar out. The watcher is a serpent with moose antlers that lives up north. Also a hobgoblin village. He is precient.  
 He warns us that Bavlorna is much tougher than Elmer. She makes some good deals and some bad deals.
 
 <hr>
