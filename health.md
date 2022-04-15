@@ -27,11 +27,19 @@
 -- 1 set of false wooden teeth
 -- Pixie dust. One minute of limited flying.
 -- Witchlight branded wine
--- cuddly spider of spiderclimb
+-- Cuddly spider of spiderclimb
 -- wizard puppet of minor illusion 3x
 - Scatterleaf tea
 -- scattering the leaves in 5ft circle, equivalent of protection of good and evil
 - A potion of disrespect. Advantage on 3 intimidation checks in the next hour.
+- Moth Silk gloves ```
+Wonderous item, uncommon
+Gloves of fine moth silk that allows the bearer to cast the Light cantrip 3 times per day. It also the wearer advantage on persuasion checks towards insects, granted they are able to be understood by them.
+```
+- Moth Silk Handkerchief
+```Wonderous item, uncommon
+A hankerchief of fine moth silk which allow the caster advantage on saves against being scryed on. Once per day, they also allow the bearer to cast Silence mimicking a moth's wings
+```
 
 ## Features and traits
 - Telekinetic
@@ -55,8 +63,9 @@ At the end of a long rest, you can touch an item to make it magical. If it needs
 4 known, 2 at a time
 - Enhanced Weapon
 - Replicate Magical Item
+-- Cap of water-breathing
 - Enhanced Defense
--
+- Mind sharpener
 
 ### Cantrips
 - Thaumaturgy

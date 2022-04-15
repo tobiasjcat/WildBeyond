@@ -132,14 +132,51 @@ The forth floor is covered in webbing. There is a birdcage with a fairydragon st
 
 <hr>
 
-Elmer is a man-spider suspended from the ceiling. He bit me twice and I passed out. Eventually Elmer surrendered to us. He thought that if he brought the fairydragon to Bavlorna, she will remove the curse that makes him a man-spider.
+Elmer is a man-spider suspended from the ceiling. He bit me twice and I passed out. Eventually Elmer surrendered to us. He thought that if he brought the fairydragon to Bavlorna, she will remove the curse that makes him a ~~man-spider~~.
 Bavlorna is in downfall where she holds court. She's doesn't like to leave downfall. Hither, Thither and Yon are locations.
 Sir Talavar, was imprisoned in downfall when wigglewog, the bullywog was leading him. Mogwart was helping Sir Talavar at the balloon factory.  
 I found abjuration magic reinforcing the cage.  
 Sue at The End of the Road, might know more about what's going on or have a way to get Talavar out. The watcher is a serpent with moose antlers that lives up north. Also a hobgoblin village. He is precient.  
-He warns us that Bavlorna is much tougher than Elmer. She makes some good deals and some bad deals.
+He warns us that Bavlorna is much tougher than Elmer. She makes some good deals and some bad deals.  
+We are going to the Inn at the end of the road. Where the inkeeper is Tsu.
 
 <hr>
+
+We slept here and played with Wover. I infused Alexandra's armor. Kadayif had some strange dreams.
+We are headed north to the Inn in snailside. Oroonoko is tasked with carrying Sir Talavar's cage.
+Sir Talavar waited until we were away from Elmer he told us more about the feywild. He says Bavlorna is running things. Zybilna's court is the summer palace. Sir Talavar was caught by a bucket.
+Normally a Hag is not powerful enough to run a realm of delight. The only hag powerful enough to to do that is Baba Yaga. We are in Prismir. Perhaps an unstable coven of Hags working together could run a realm of delight.
+He taken back to Downfall. The court of Downfall is called the soggy court. Let them speak kindly of wigglewog (the bullywog) and Mogwart. Wigglewog stole his cage. Mogwart was fighting a dozen Bullywogs and probably died.
+Titania is the queen of the summer court and one of the most powerful.
+There is a feydark like the underdark where the feymorians, giants. The summer palace in a nation in the summer court which is a nations. Feymorians are about three oswalds tall.
+
+We encounteres a small thicket of Mangrove trees. Small caterpillars eat leaves. A small female pixie asks why we are interupting they flock of moths. The adult moths have all run off because Heregons have stolen the pixies crook with a light on it. The Heregon Jepeck stole the crook. These are going to satyr moths which have horns.   
+Firebelly toads may eat the moths. Firebelly toads are a creations of Bavlorna. They eat marshmallow plants which are failing because of the fluctuation of water levels. The marshmallow plants are like cat-tails but with marshmallow plants.   
+
+Her name is Lambs-tail. She gives us Moth Silk Gloves. I tinkered with my cookie cutter shaped like a unicorn to have generate light.
+
+We found a field with rising iridescent bubbles. The Mud-Mephits gave us another riddle which Kadayif aced.
+
+A veiled stilt-walker gallops away before we could talk with them. They had a cage of eggs on their back.  
+
+We found the moths eventually. With a three Firebelly toads which attack us. Firebelly toads do not ice. The toads are normal sized and are about the size of a cat.  
+
+We slew the toads and the moths swarmed around my illuminated cookie cutter. They began singing a pan-pipe-like tune similar to a satyr.  
+
+We returned the moths to Lambs-tail. She gives us a silk armor.
+
+We a larger pool which contains the remains of a battle. Nearby is a giant bat sleeping upside down from a branch. It is wearing reigns and a basket to suggest something has been riding it.
+
+There is also a fairy woman. She has a owlish beak and birdlike wings. She is staring at that water. Her name is pellet-wretch. There is something precious to her in the pond, a bog-body of an eladrin. She tells us about what happens to bodies in peat over time. There are two suits of ceramic armor which defend the battle-grounds but may be valuable. She is interested in the scientific properties of the preserved eladrin bodies.
+
+The water is toxic but can be processed into a healing water.
+
+Talavar thinks that disturbing the body is in bad taste in the Summer Court. We agreed to extract the body and and began to fight the ceramic armor.
+
+We used mage hand to tie the rope around the bog body and Kadayif as a elk, towed it out. We placed the body into the basket on Taffy the bat.
+
+To use the water, we need to fill this large jug and bring it to a nearby creature called the Bagiennik. Putting the water in the Bagiennik's nose, will turn it into the healing water. She marks its location on our map.
+
 
 
 
