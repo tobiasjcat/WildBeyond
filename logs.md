@@ -177,6 +177,42 @@ We used mage hand to tie the rope around the bog body and Kadayif as a elk, towe
 
 To use the water, we need to fill this large jug and bring it to a nearby creature called the Bagiennik. Putting the water in the Bagiennik's nose, will turn it into the healing water. She marks its location on our map.
 
+We defeated the animated armor in battle.
+
+<hr>
+
+We now head to snailside. We hear a scuffle between a human and animal. A hobgoblin youth and is being beaten up by an unknown horror. It wisely flees once we arrive. We sense that it's name is Snappy.
+
+Khenkad the impetuous. He claims to have been fighting off Snappy. His arm was damaged in the fight. He has a set of four stilts.
+
+He is from snailside and tells us they sell stilts there too. On the horizon we can see a lumpy side of a snail. Snailside is the last stronghold of Zybilna followers in the Summer Court according to Khenkad. Khenkad's mom, Drozedok The Hunter won't help him kill monster.
+
+Snailside is an actual large snail. Its head sticks out 20 to 30ft. There is a small village built on the top of the shell. A dozen or so buildings. One building is larger than the rest. One is Zrorkol The Fair's General Store (in sylvan).
+
+There is a staircase up the side of the shell. Agdan is excited to see the big snail. There are open stables for us to leave Agdan.
+
+Khenkad and the village have been tracking Diana Cloppington to help her. Their stairs are crank operated. There are mostly hobgoblins but also bugbears and fairies. They also are wearing decorative veils similar to the one we saw.
+
+The General store is two-room building. She is an old hobgoblin. She gives me several hobgoblin molars in exchange for the bottle of Witchlight wine. She is interested in finding out where we came from.
+
+The oracle is named Agerg of the Visions. She is selling swamp stilts, mosquito nets, 10ft poles and caltrops. They have a saddle of many shapes. Agdan is too smart to go to Downfall. She tells us that the population is shrinking and that Elmer had failed his hunt so he had to find a new job.
+
+The oracle doesn't see outsiders very often. On the way we pass a large wall of stone with imagery of people from the village including human Diana Cloppington on a screwball horse.
+
+At the oracle's house, someone answered the door. The oracle only uses her powers for members of the town. We are talking to Croza the Shield. We could get an appointment if we get all the monsters removed.
+
+We hear a loud horn in the distant. All the villagers are quite interested in this. We see a pack of hobgoblins on stilts coming back to the village. They seem celebratory and say they have found signs of "her". They are referencing the other part of Diana Cloppington. Khenkad says he will join us and help track the Cloppington Diana.    
+
+We are going to search a mangrove grove. We found the Bandersnatch while tracking Cloppington Diana (Tasha). We eventually found her and calmed her. Khenkad says the oracle will know what to do. We started leading her back to snailside and ran into Drozedok the Hunter. Upon hearing praises of Khenkad's successful slaying of the Bandersnatch, Drozedok embraces her son.
+
+The entire town is pleased to see Cloppington. Veiled stately hobgoblin, Agerg, addresses us. She tells us the Bagiennik is a creature of madness. Its mood fluctuates and may attack. Don't slay the Bagiennik. She wants a sample of hair and blood from the each of us.
+
+She explains that with these samples she will make Poppets out of. The Bagiennik will think the Poppets are you. They are decoys. Baking Bread Poppets are nasty, don't look at them if possible. We consented.
+
+She suggested distracting the Bagiennik by throwing gords filled with coins. We took a long rest.
+
+<hr>
+
 
 
 

@@ -5,9 +5,9 @@
 - Initiative 1
 - speed 30
 
-14 max hit points, 2 hit die  
-1/14 hp   
-1/1 hit die  
+16 max hit points, 2 hit die  
+15/16 hp   
+1/2 used hit die  
 
 8gp
 4gp and a rope of jump
@@ -21,12 +21,12 @@
 - Potion of revivify
 - Bag of holding, with glitter
 - Impressive balloon octopus from Thaco (given to Oroonoko)
-- DVD of mulan rogue, go-go boots and fishnets
+- DVD of mulan rogue, go-go boots and fishnets (traded the fishnets for a set of swamp stilts)
 - 4x prize token
 - A cookie cutter shaped like a unicorn.
 -- 1 set of false wooden teeth
 -- Pixie dust. One minute of limited flying.
--- Witchlight branded wine
+-- Witchlight branded wine (traded for 6 weird teeth)
 -- Cuddly spider of spiderclimb
 -- wizard puppet of minor illusion 3x
 - Scatterleaf tea
@@ -40,6 +40,10 @@ Gloves of fine moth silk that allows the bearer to cast the Light cantrip 3 time
 ```Wonderous item, uncommon
 A hankerchief of fine moth silk which allow the caster advantage on saves against being scryed on. Once per day, they also allow the bearer to cast Silence mimicking a moth's wings
 ```
+- Ceramic Scale Armor (wearing)
+- Normal scale mail (traded for saddle of many shapes)
+- Saddle of many shapes
+
 
 ## Features and traits
 - Telekinetic
