@@ -13,9 +13,12 @@
 4gp and a rope of jump
 
 ## Equipment
+- Mind sharpener
+-- 1d4 daily (long-rest) charges to turn a failed concentration save into a success.
 - Scale mail armor (disadvantage to stealth)
 - Thieves's Tools as a part of kit of tools
 - Disguise kit
+- A potion that either heals/cures disease/removes curse
 - A deck of cards
 - Carnival Uniform (greasy overalls)
 - Potion of revivify
@@ -29,6 +32,7 @@
 -- Witchlight branded wine (traded for 6 weird teeth)
 -- Cuddly spider of spiderclimb
 -- wizard puppet of minor illusion 3x
+- bells
 - Scatterleaf tea
 -- scattering the leaves in 5ft circle, equivalent of protection of good and evil
 - A potion of disrespect. Advantage on 3 intimidation checks in the next hour.

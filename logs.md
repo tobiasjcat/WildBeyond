@@ -183,7 +183,7 @@ We defeated the animated armor in battle.
 
 We now head to snailside. We hear a scuffle between a human and animal. A hobgoblin youth and is being beaten up by an unknown horror. It wisely flees once we arrive. We sense that it's name is Snappy.
 
-Khenkad the impetuous. He claims to have been fighting off Snappy. His arm was damaged in the fight. He has a set of four stilts.
+Khenkad the Impetuous. He claims to have been fighting off Snappy. His arm was damaged in the fight. He has a set of four stilts.
 
 He is from snailside and tells us they sell stilts there too. On the horizon we can see a lumpy side of a snail. Snailside is the last stronghold of Zybilna followers in the Summer Court according to Khenkad. Khenkad's mom, Drozedok The Hunter won't help him kill monster.
 
@@ -213,6 +213,33 @@ She suggested distracting the Bagiennik by throwing gords filled with coins. We 
 
 <hr>
 
+During the rest I made a mind-sharpener and we got some sleep. Agerg completes the Poppets which are bread sized but proportionate to our sizes.
+
+We headed out for the Bagiennik on stilts with the Poppets swaddled in cloth. Kadayif noticed we entered a dry divet, perhaps it's a massive footprint going perpendicular to our path. There is a strange trail of the prints.  
+
+Behind us we hear bagpipes and singing. They are Heregon highwaymen tracking the large footprint things to attacking us.
+
+We came to a glen where we heard whale noises and splashing. Crickets and birds are quiet around. Kadayif turned into a frog to sneak up on it. It is probably the Bagiennik.
+
+We came up with a rather complicated plan to plant the poppets without looking at them. It seemed to work getting the Bagiennik to purify the water.
+
+We returned to snailside without incident and spoke to Agerg. Croza the Shield let us in. Agerg tells us we are in their debt. We collected a number of things from the carnival which were placed in a mortar and pestle. We see a vision of diana at the carnival. The horse is named Tasha. We spotted a vision of Diana and horse.
+
+Agerg is exhausted and needs a break for an hour.
+
+Croza tells us:
+- Bavlorna is the animal re-assembler. Heregon are a problem. There is a jabberwock with burning eyes and scales. It flys and kills things. It normally hunts in Thither.
+
+- Toasted Cheese is the name of the goblin who does all the hunting for Bavlorna.   
+
+- There is a a sort of creature like a bear but with big horns and strange curved feet.
+
+- The real brigand leader Agdan hangs around the toll-ways. He can't remove his scarf. The toll-way is a giant tree which would make the snail proportional. It's roots create bridges which allow passage. He works for Bavlorna after having bad blood with Zybilna.
+
+We return to Agerg who also tells us where Talavar's key is. By throwing fairy-dragon bones on a table. Skeleton for a skeleton-key. There's a goblin who is so afraid of being confined that she went to Bavlorna to trade her fear away for an obsession of keys. Bavlorna crafted the traded fear into something new. The goblin has the key in her collection on a giant mobile hill. She points in the direction of the large footprints.
+
+
+<hr>
 
 
 

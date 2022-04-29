@@ -34,3 +34,17 @@ Madryck Roslof
 - [x] Gnome Poetry Contest
 - [x] Catch the Dragon By The Tail
 - [x] Goblin Wrestling
+
+
+Lyrics of Agdon's gang:
+```
+Oh, here's to Prince Agdon, our friend and our chief,Strapping and debonair harengon thief,Hands in the air and now drop to your knees, We're the brigands of Hither, we do as we please.
+
+Bad luck to all ye who have wandered this way, And have naught to give for the toll you must pay, We'd rather not hurt you, but we've made a pact, So we're taking some treasure, that much is a fact.Pass over your trinkets and ingots and gold,Yes, we'll take your sweater if it means you're cold,We'll steal your fine wine, and your sweet memories,We might leave you a copper, but no guarantees.
+
+Here's to Prince Agdon, our friend and our chief, Daredevil, ne'er-do-well, paragon, thief,  For him, we knock swords and steal great wheels of cheese!We're the brigands of Hither, we do as we please.
+
+No doubt you have heard of Prince Longscarf the Brave, The dashingest, daringest, handsomest knave,All across Prismeer he's gathered acclaim,While trailing the neckwear that gives him his name, Too long was he punished and strung from a tree,While Zybilna the Witch Queen would not set him free, But the coven took hold and they wiped the slate clean,Now we take what we want and we say what we mean!
+
+Here's to Prince Agdon, our friend and our chief,  Strapping and debonair harengon thief,  Hands in the air and now drop to your knees, We're the brigands of Hither, we do as we please!
+```
