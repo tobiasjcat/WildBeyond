@@ -47,6 +47,7 @@ A hankerchief of fine moth silk which allow the caster advantage on saves agains
 - Ceramic Scale Armor (wearing)
 - Normal scale mail (traded for saddle of many shapes)
 - Saddle of many shapes
+- Ogre's the glyph for moon written on to it. The roots are rotted. 
 
 
 ## Features and traits

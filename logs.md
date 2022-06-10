@@ -238,6 +238,46 @@ Croza tells us:
 
 We return to Agerg who also tells us where Talavar's key is. By throwing fairy-dragon bones on a table. Skeleton for a skeleton-key. There's a goblin who is so afraid of being confined that she went to Bavlorna to trade her fear away for an obsession of keys. Bavlorna crafted the traded fear into something new. The goblin has the key in her collection on a giant mobile hill. She points in the direction of the large footprints.
 
+The toll way a big tree stump with enormous intertwined roots.
+
+<hr>
+
+We are asking Drazdak about the hill. They tell us it's called the Tellemey Hill. It eats by absorbing trees. Jingle-jangle, the single-minded goblin lives on the hill. The trees are not treants but they talk for the hill.
+
+## TODO, don't turn you're back on the soggy court
+- Appearance obsessed. They are passive-aggressive. They are cruel malicious children which Zybilna kept in check.
+
+We walk and find a well. There is a spout of dirty water. There are trinkets on the top of the spout. There is creature howling and trying to reach the trinkets. It is muscly and dagda-like with also long arms. This is not something natural. Talavar says it's a kangaroo.   
+I remembered this was one of the animals not permitted at the carnival. "No demons" was the label. It is a Dretch.   
+There is an agreement with the lords of the underworld, but we are honor-bound to kill this.
+Its body dissolves away revealing a nice large topaz. I identified is as very magically from the school of divination. It has a memory and an emotion in it. Kadayif touches it which confers a powerful sense of fear.
+All of us appear in a new area which is twilight. We are in the woods in winter following a young girl with dark hair. She is clutching her stomach in hunger. She expresses the emotion Kadayif felt. There is small hut now. She girl is going towards it. She collapses in the snow. Kadayif picks her up.
+
+Kadayif revives her and she wanders off towards the hut. Kadayif knocks on the door before the girl can. A very old human woman answers the door. A black cat is sitting by a fire with a pot of stew. She takes in the child and we all appeared again. The hut then stood up and walked away.    
+
+The topaz is finely cut. I got an 8in glass ant figuring (bong) which I traded for a tooth from Oswald.
+
+
+We continue our journey, and hear the worst noise. A very bad brass instrument. They say it is coming from an enormous mushroom on the next hill. Alexandra approached stealthily poorly.  
+A 5ft ambulatory frog introduces itself to Alexandra. They were formerly a member of the court of king Gullup disnuff the XIX (19th).    
+He claims to be have been friends of with Gullup and helped dethrone the last king. The frog is delighted to see Talavar.
+Count Poddlidop is his name. Gullop will be embarrassed for letting Talavar escape. Talavar says he's from the soggy court.   
+He tells us Bavlorna freed them from the tyrant Zybilna. Gullup would not be able to boil the old king under Zybilna.
+Talavar tells us all the members of the Soggy Counter are Bullywogs.
+
+Moving on we spotted the enormous human-like tracks and the harengon tracks. After a while we hear singing in sylvan from a group. It's a singing harengon gang fighting with something. A giant winged creature interrupting the singing. It is stitched together from various beasts. We snuck away.
+
+Later we hear pots and pans clanging. A figure is walking towards us. She is wearing a heavy pack with all many of junk.
+She has many jars. Most jars have water in them.
+
+Her name is Baba-Gab and the Babel the shoulder mushroom pet.
+I greeter her before I noticed her jars a full of tongue. They are growing in the jars. She thanked us for Oswald's gifted ration but wants to feed us a cooked meal.   
+While cooking, she sets nine tongues on the table which have utility. Each tongue will confer some language.   
+She says Bavlorna doesn't withold gratification. Gab has a deal where Bavlorna wants to learn 8 languages and Draconic.
+
+I ate one of her tongue which had a rocky appearance which conferred a ability to speak Terran.  
+
+She knows of a Tooth-hag in Yon.
 
 <hr>
 
