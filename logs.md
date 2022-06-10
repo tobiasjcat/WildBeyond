@@ -109,7 +109,9 @@ We visited the Pixie Kingdom. Jeremy Plum. I am Dudley Dimple and Oroonoko is Fr
 Zybilna says
 no hurting children
 no stealing
-don't be rude
+law of hospitality: don't be rude to guests
+law of reciprocity:
+law of ownership:
 We have been talking to Puddle-mud. Travel is difficult, things take various times to get to places. Feelings effect the environment though the archfey's feelings are far more impactful. Don't let the fey have anything. Thank you acknowledges a debt.
 After the pixie kingdom, we went to the coronation of the Witchlight Monarch. Alexandra won the crown.
 
@@ -240,6 +242,25 @@ We return to Agerg who also tells us where Talavar's key is. By throwing fairy-d
 
 
 <hr>
+
+missed session :[
+
+
+
+<hr>
+
+Post tongue stew. The hag gets a piece of each of our tongues.
+
+I made a key for jingle jangle. Heart shaped handle with square area with a cut-out of a castle with three turrets.
+
+We find the hill where there is a cave shaped like a keyhole. The hill smells nice. As we approach the cave the trees came closer to us and started talking to us. The hill is sad that it can't roam through the mists. Jingle-jangle was startled by the harengon. Telemy Hill is worried the keymaker has reverted to being afraid of being trapped. Telemy thinks she may answer the door. Keys hang in some of the branches.
+
+Telemy wants us to communicate that they don't want jingle jangle to keep digging caves. Jingle Jangle spooks easily.
+
+We enter the cave looking for jingle jangle. In the cave there are three doors we see: a maple and elm and a willow. So we left the cave and talked some trees into giving us keys. Later we ran into a harengon who fled from us into a hole in the ground. We followed it into the hole and then were "ambushed" but we expected that. The harengon appeared to be shapeshifters.
+
+Kadayif thinks are fey things, either meanlocks are made of fear. Redcap made of anger. 
+
 
 
 
