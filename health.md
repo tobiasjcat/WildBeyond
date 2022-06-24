@@ -14,7 +14,7 @@
 
 ## Equipment
 - Mind sharpener
--- 1d4 daily (long-rest) charges to turn a failed concentration save into a success.
+-- 4/4 charges 1d4 daily (long-rest) charges to turn a failed concentration save into a success.
 - Scale mail armor (disadvantage to stealth)
 - Thieves's Tools as a part of kit of tools
 - Disguise kit
@@ -30,6 +30,7 @@
 -- 1 set of false wooden teeth
 -- Pixie dust. One minute of limited flying.
 -- Witchlight branded wine (traded for 6 weird teeth)
+-- 6x weird teeth
 -- Cuddly spider of spiderclimb
 -- wizard puppet of minor illusion 3x
 - bells
@@ -47,7 +48,7 @@ A hankerchief of fine moth silk which allow the caster advantage on saves agains
 - Ceramic Scale Armor (wearing)
 - Normal scale mail (traded for saddle of many shapes)
 - Saddle of many shapes
-- Ogre's the glyph for moon written on to it. The roots are rotted. 
+- Ogre's the glyph for moon written on to it. The roots are rotted.
 
 
 ## Features and traits

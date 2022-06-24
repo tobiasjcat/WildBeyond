@@ -293,9 +293,34 @@ Telemy wants us to communicate that they don't want jingle jangle to keep diggin
 
 We enter the cave looking for jingle jangle. In the cave there are three doors we see: a maple and elm and a willow. So we left the cave and talked some trees into giving us keys. Later we ran into a harengon who fled from us into a hole in the ground. We followed it into the hole and then were "ambushed" but we expected that. The harengon appeared to be shapeshifters.
 
-Kadayif thinks are fey things, either meanlocks are made of fear. Redcap made of anger. 
+Kadayif thinks are fey things, either meanlocks are made of fear. Redcap made of anger.
+
+<hr>
+
+More fighting with the meanlocks. We eventually defeated them clumsily and rescued jingle jangle. She was collecting truffles when she was attacked by real Heregon which drove her into the meanlock lair where her fear feed them.
+jingle jangle was able to find the key to Sir Talavar's a cage who was grateful to be released. He gifts his blade to Alexandra. He also tells us we will need a guide, someone who has made the journey before.
+
+Talavar warns us to watch out for Bavlorna's lornlings. Littler versions of Bavlorna who do her bidding.
+jingle jangle gives us a brown weathered key (in the S section for Swamp Hag) to Bavlorna. It opens something on the third floor of Bavlorna's place.
+
+jingle jangle gives us also slices of key-lime pie. She tells us the Harengon are fast on the trees. She offers us a set of thieves tools who used to belong to a plumber as well as a few other keys.
+Misc keys
+- A key that opens doors when it's in the mood. It can open anything. Infrequenty 
+- A key that cuts through things.
+- A key that can age/de-age a person by a year.
+- A key that comes with a lock which is immovable when locked.
+- A charred key that attracts lighting.
+- The key-witness records things and then plays them backwards in real time. Up to 8 years.
+-
+
+She gives a bus tickets
+
+JJ also tells us that attempting to hurt kids just sends the kids to a sort of purgatory.
 
 
 
+
+
+Remember to switch infusions to flying, spell delivering, chair shaped homunculus on level up.
 
 .
