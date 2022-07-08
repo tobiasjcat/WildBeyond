@@ -305,22 +305,36 @@ jingle jangle gives us a brown weathered key (in the S section for Swamp Hag) to
 
 jingle jangle gives us also slices of key-lime pie. She tells us the Harengon are fast on the trees. She offers us a set of thieves tools who used to belong to a plumber as well as a few other keys.
 Misc keys
-- A key that opens doors when it's in the mood. It can open anything. Infrequenty 
+- A key that opens doors when it's in the mood. It can open anything. Infrequently
 - A key that cuts through things.
 - A key that can age/de-age a person by a year.
 - A key that comes with a lock which is immovable when locked.
 - A charred key that attracts lighting.
 - The key-witness records things and then plays them backwards in real time. Up to 8 years.
--
 
 She gives a bus tickets
 
 JJ also tells us that attempting to hurt kids just sends the kids to a sort of purgatory.
 
 
+<hr>
+
+She gives each of us a special key and directions to the Inn. The Inn is mobile and has feet that are different than the hill. They are the same shape as ours but smaller than Tellemey Hill's.
+
+Water levels are up again but we find the Inn okay. It is walking towards us and stops. It's a stone house shaped building with dozens of feet carrying it around.
+
+The Inn is pretty busy. Leprechauns make shoes. There is a depressed Leprechaun (Clurichaun) in the basement drinking. The Clurichaun's name is Molly O'floog. We bounced her out at Tsu's request.
+
+The bartenders name is Tsu.
+
+Istaria, a pregnant spring Eladrin, is on her way to the Watcher.
+
+There are satyrs playing a dice game that I joined in on. 
 
 
+### Todos
+Remember to switch infusions to flying, spell delivering, chair shaped homunculus on level up. Remember when leveling up to use thieves tools to make alchemists tools.
 
-Remember to switch infusions to flying, spell delivering, chair shaped homunculus on level up.
+On Level 4, consider Poisoner, Observant, Fey Touched
 
 .
