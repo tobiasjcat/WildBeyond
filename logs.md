@@ -329,12 +329,39 @@ The bartenders name is Tsu.
 
 Istaria, a pregnant spring Eladrin, is on her way to the Watcher.
 
-There are satyrs playing a dice game that I joined in on. 
+There are satyrs playing a dice game that I joined in on.
+I lost my ability to clap but got a recipe for imitation human meat. Win-win
+
+Derek is the chef. Cutest goblin ever.
+
+<hr>
+
+While gambling, a humanoid plant person appears. She doesn't like the noise. She says the potted tree is hers. We call her "Buddy". She doesn't like that her tree is in the noisy bar.
+
+We asked Tsu about her bark arms. She said it's a result of continuous existence in the feywild. We are asking about getting a guide through the mist.
+
+She knows someone who stumbled through the mist without a head. Might have been a scarecrow. Sometimes Bavlorna hears things. The scarecrow is in Downfall now.
+
+We are thinking of going to the Watcher to find a guide through the mist. We are also staying close to the bachelorette's party.
+
+The party is creepy and looking for "food". Alexandra brought them free dumplings which they hated. They indicated that they wanted to eat a person so Alexandra Suggested that they call it a night which failed to take.
+
+Kadayif attempted to play a very bad song, but the drunk party ended up attacking us. After a raucous fight Kadayif convinced the the Maenad to take a bath and sleep the rest of the night.   
+
+Afterwards we talked to the trio of fairies who are drinking beer out of acorns. They are gossiping. Hazey, Hops, Lemon drop, Miss noggin introduced themselves to me. They are mushroom hunters who have a Morel compass.
+
+One of the fairies says that there is an entrance to Bavlorna's place through a mirror from a carnival. Bavlorna is a shut-in who doesn't trust anyone other than herself. She hates her sisters. The fairies say that King Gallop XIX of the Soggy Court may be on his way out. Taking the head off of the figure head. The Soggy Court doesn't plan for the future. They are short-sighted. SC respect titles and fancy-pants stuff. Ms. Noggin comments Bavlorna is too lazy to wipe out the SG which she would like to do. The balloon factory was damaged in Sir Talavar's escape. The mists are preventing the other courts from taking over Hither here.
+
+While talking to the fairies, a frog creature entered the bar which Kadayif remembered. Tsu is very concerned for us and tells us to do nothing and say nothing. The Creature talks to the satyrs who are mildly put out. It talks to the elven couple and we eavesdropped. It is talking about a deal the words "Palace", "downfall" and a child.  
+
+<hr>
 
 
 ### Todos
-Remember to switch infusions to flying, spell delivering, chair shaped homunculus on level up. Remember when leveling up to use thieves tools to make alchemists tools.
+- Talk to the elven couple in them morning. 
+- We are in hither now? On your way to Downfall.  
+- On Level 4, consider Poisoner, Observant, Fey Touched, But really Flames of Phlegethos for a fire focus.
 
-On Level 4, consider Poisoner, Observant, Fey Touched
+
 
 .

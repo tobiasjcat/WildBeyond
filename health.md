@@ -5,9 +5,9 @@
 - Initiative 1
 - speed 30
 
-16 max hit points, 2 hit die  
-15/16 hp   
-1/2 used hit die  
+21 max hit points, 2 hit die  
+21/21 hp   
+0/3 used hit die  
 
 8gp
 4gp and a rope of jump
@@ -40,19 +40,22 @@
 - Scatterleaf tea
 -- scattering the leaves in 5ft circle, equivalent of protection of good and evil
 - A potion of disrespect. Advantage on 3 intimidation checks in the next hour.
-- Moth Silk gloves ```
-Wonderous item, uncommon
+- Moth Silk gloves
+```
+Wondrous item, uncommon
 Gloves of fine moth silk that allows the bearer to cast the Light cantrip 3 times per day. It also the wearer advantage on persuasion checks towards insects, granted they are able to be understood by them.
 ```
 - Moth Silk Handkerchief
-```Wonderous item, uncommon
-A hankerchief of fine moth silk which allow the caster advantage on saves against being scryed on. Once per day, they also allow the bearer to cast Silence mimicking a moth's wings
+```
+Wondrous item, uncommon
+A handkerchief of fine moth silk which allow the caster advantage on saves against being scryed on. Once per day, they also allow the bearer to cast Silence mimicking a moth's wings
 ```
 - Ceramic Scale Armor (wearing)
 - Normal scale mail (traded for saddle of many shapes)
 - Saddle of many shapes (wondrous)
 -- Forms onto any animal
 - Ogre's the glyph for moon written on to it. The roots are rotted.
+- Scroll of Grease
 
 
 ## Features and traits
@@ -69,14 +72,14 @@ A hankerchief of fine moth silk which allow the caster advantage on saves agains
 Can have up to three items enchanted. Can enchanted an object in an action to
 - [x] Shed bright light 5ft, dim light 5ft more
 - [ ] Store a recorded message, can be tapped to play
-- [x] Continuously emit an odor or non-verbal sound perceptible up to 10 ft away
+- [x] Continuously emit an odor or non-verbal sound perceptible up to 10 ft away (a mug made to smell like a very nice/fancy liquor) (another mug that smells like 3 very old fish)
 -- Currently emitting rich boozy scent.
 - [ ] Visual effect and/or up to 25 words to appear  
 
 ### Infusions
 At the end of a long rest, you can touch an item to make it magical. If it needs attunement, that can happen immediately only after infusion. Infusions remain indefinitely.
 4 known, 2 at a time
-- [ ] Enhanced Weapon
+- [ ] Homunculus servant (A miniature wicker chair made out of metal that flies without wings. It dangles upside-down from the end of one leg.)
 - [ ] Enhanced Defense
 - [x] Mind sharpener
 - [ ] Replicate Magical Item
@@ -88,6 +91,6 @@ At the end of a long rest, you can touch an item to make it magical. If it needs
 - Shocking Grasp
 - Mending
 
-### 1st level
+### 1st level prepped spells  (obsolete)
 - Identify
 - Catapult
