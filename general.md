@@ -48,3 +48,14 @@ No doubt you have heard of Prince Longscarf the Brave, The dashingest, daringest
 
 Here's to Prince Agdon, our friend and our chief,  Strapping and debonair harengon thief,  Hands in the air and now drop to your knees, We're the brigands of Hither, we do as we please!
 ```
+
+Hither - past
+Thither - current
+Yon - future
+
+Valors Call adventuring party:
+Strongheart the paladin is the leader.
+Mercion the cleric.
+Ringulrun the wizard.
+Elkhorn the fighter.
+Molliver the Rogue.

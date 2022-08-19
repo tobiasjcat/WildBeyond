@@ -356,9 +356,18 @@ While talking to the fairies, a frog creature entered the bar which Kadayif reme
 
 <hr>
 
+We take a good nice rest with a hot bath and meet in the kitchen for breakfast.
+
+A human and a dwarf adventurers are there. They are armed and armored. We approached them. They are part of the Valor's Call. Molliver is the human and Elkhorn is the dwarf. They are seeking Bavlorna. The party split to save time on the queen's highway. Most of their time has been spent trying to get out of hither. They are going to find their way through the mists now.
+They came from Greyhawk a place I have heard of. I got a Tasha's statue from there. Their patron is Mordecai the magician.
+The mists are Dreadmists. There are Dread Domains which are ruled by dreadlords. They all have mists that make it hard to pass. The way to get through the mists with a mist talisman. An object which has a connection to the plane you are trying to get to. We need one talisman for the group.
+
+We also talked to the elves that were in the corner yesterday. They are Alim the woman and male Torkal. They made a deal with the lornling. They came to see Zybilna, a patron of children. Their daughter, Ashley, is missing. They think Bavlorna will be able to reunite them with their daughter. They are from Amn.
+
+
 
 ### Todos
-- Talk to the elven couple in them morning. 
+- Talk to the elven couple in them morning.
 - We are in hither now? On your way to Downfall.  
 - On Level 4, consider Poisoner, Observant, Fey Touched, But really Flames of Phlegethos for a fire focus.
 
