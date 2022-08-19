@@ -11,21 +11,21 @@ Madryck Roslof
 
 
 # Attractions
-- [ ] Big Top
-- [ ] Bubble Pop Teapot
-- [ ] Calliope
-- [ ] Carousel
-- [ ] Dragonfly Rides
-- [ ] Feasting Orchard
-- [ ] Gondola Swan
-- [ ] Hall of Illusions
+- [x] Big Top
+- [x] Bubble Pop Teapot
+- [x] Calliope
+- [x] Carousel
+- [x] Dragonfly Rides
+- [x] Feasting Orchard
+- [x] Gondola Swan
+- [x] Hall of Illusions
 - [x] Lost Property
 - [x] Mystery Mine
-- [ ] Pixie Kingdom
-- [ ] Silversong Lake
-- [ ] Snail Races
+- [x] Pixie Kingdom
+- [x] Silversong Lake
+- [x] Snail Races
 - [x] Tasha Fortuneteller
-- [ ] Lightening Dome
+- [x] Lightening Dome
 
 # Small Stalls:
 - [x] Almiraj Ring Toss
@@ -38,7 +38,7 @@ Madryck Roslof
 
 Lyrics of Agdon's gang:
 ```
-Oh, here's to Prince Agdon, our friend and our chief,Strapping and debonair harengon thief,Hands in the air and now drop to your knees, We're the brigands of Hither, we do as we please.
+Oh, here's to Prince Agdon, our friend and our chief, Strapping and debonair harengon thief,Hands in the air and now drop to your knees, We're the brigands of Hither, we do as we please.
 
 Bad luck to all ye who have wandered this way, And have naught to give for the toll you must pay, We'd rather not hurt you, but we've made a pact, So we're taking some treasure, that much is a fact.Pass over your trinkets and ingots and gold,Yes, we'll take your sweater if it means you're cold,We'll steal your fine wine, and your sweet memories,We might leave you a copper, but no guarantees.
 

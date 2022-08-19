@@ -362,15 +362,38 @@ A human and a dwarf adventurers are there. They are armed and armored. We approa
 They came from Greyhawk a place I have heard of. I got a Tasha's statue from there. Their patron is Mordecai the magician.
 The mists are Dreadmists. There are Dread Domains which are ruled by dreadlords. They all have mists that make it hard to pass. The way to get through the mists with a mist talisman. An object which has a connection to the plane you are trying to get to. We need one talisman for the group.
 
-We also talked to the elves that were in the corner yesterday. They are Alim the woman and male Torkal. They made a deal with the lornling. They came to see Zybilna, a patron of children. Their daughter, Ashley, is missing. They think Bavlorna will be able to reunite them with their daughter. They are from Amn.
+We also talked to the elves that were in the corner yesterday. They are Elim the woman and male Torkal. They made a deal with the lornling. They came to see Zybilna, a patron of children. Their daughter, Ashley, is missing. They think Bavlorna will be able to reunite them with their daughter. They are from Amn.
 
+Elkhorn and Molliver are complaining about Elkhorn losing his compass which points to the Palace of the Hearts Desire. Elkhorn couldn't see the Harengon who took it.
+
+We may get three questions total or three for the group for the Watcher.
+
+
+We depart from the Inn and head towards the Watcher. We heard a children-like screaming from downriver.
+
+We spot a humanoid frog by the river fishing. His name is Oofgonk. The soggy court is in downfall. He is a simple peasant. Lactoads. He says the screaming is from a devilkin wearing a hat. The devilkin has stones around that make noises. Devilkin are fey of panic who like discordance but not harmonies.
+
+We come to the source of the noise. A cave on an island in middle of a lake with 8 stones as path. The cave is covered by a terrible tent. Each stone gets higher pitched.
+
+We drove the devilkin away by singing in harmony and stepping on the stones in harmony.
+
+The hut is a single room. A rusted old harp sits on one of the straw beds.
+
+In the cave under the hut, a serpent with a moose head pokes it's head up. It seems sad. It speaks in rhymes.
+
+Astoria's husband is trapped on the other side of the mist.
+
+How to free Zybilna:
+"A unicorn's horn and the queens true name or smashing of Iggwilv's cauldron"
+
+To defeat Bavlorna, it will be easy to cause a infighting with the hags.
 
 
 ### Todos
-- Talk to the elven couple in them morning.
+- [ ] Do another infusion (cap water breathing)
 - We are in hither now? On your way to Downfall.  
 - On Level 4, consider Poisoner, Observant, Fey Touched, But really Flames of Phlegethos for a fire focus.
-
+- We have committed to return to Watcher.
 
 
 .
