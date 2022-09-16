@@ -19,7 +19,7 @@
 - Thieves's Tools as a part of kit of tools
 - +2 Thieves’ Tools. You have a +2 bonus to Dexterity checks made to pick locks using this set of thieves’ tools. Jingle Jangle will offer her tools to a fellow lockpicking enthusiast, but requests that they trade their tools to her.
 - Disguise kit
-- A potion that either heals/cures disease/removes curse
+- A potion that either heals/cures disease/removes curse  (the one unit for the party)
 - A deck of cards
 - Carnival Uniform (greasy overalls)
 - Potion of revivify
@@ -55,8 +55,12 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - Saddle of many shapes (wondrous)
 -- Forms onto any animal
 - Ogre's the glyph for moon written on to it. The roots are rotted.
-- Scroll of Grease
-
+- Scroll of Grease (consumed in fight with agdan the protenders)
+- Feymorian spit labeled and says "don't drink"
+- Sybella's unfashionable jewelry
+- A Yon object: a marionette with a stags on side, and lions head on the other. Like Janus a button flips the face around.
+- A thither object:
+- A deer skull from Agdon's lair.
 
 ## Features and traits
 - Telekinetic

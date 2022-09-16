@@ -388,9 +388,47 @@ How to free Zybilna:
 
 To defeat Bavlorna, it will be easy to cause a infighting with the hags.
 
+<hr>
+
+We are prepped for the Toll Stroll. The swamps on the way are awful. The stilts are doing a lot of work. We headed to some high ground that looked dry but there was lady on the hill weeping. She says her love left her. She is not conventionally attractive. She is Sybella and she now thinks that Oswald is her love.   
+She gave her looks away freely in exchange for true love that she feels all the time.
+She was robbed on the tollway. We tricked her by telling her Oswald's brother was nearby and needed love.
+
+After departing, on our journey the water receded to the point where there is a clear stream adjacent to the mud. The stream cleans Oswald's feet. Looking into the stream, we saw visions. It's a frog lady dressed in knight's garb sitting stoically in a prison cell. There is a nicely dressed bullywog looking in on the one in the cell.
+
+I see a heart in a box beating. The box is cold. Panning out The room is a meat locker and the heart is the coldest. A creature enters the locker. A short fey woman with a red hat and boots, looks around at the meat supply. She walks out to a balcony where there are creatures including vansle, the satyr who was trying to do strip poker.
+She is a red-cap which is a fey-creature formed out of murderous rage.
+
+
+Kadayif saw another lady walking out of a small chamber with a storm behind her. Her shadow is not attached and moving at a different pace.
+
+Alexandra spots a Bullywog with a big fancy collar. Long curled coattails. He is in a decripted shanty. He looks scared holding a large black tome. She follows the vision which advances. The Bullywog is going down stairs, and notices hornets swarming in from the top.     
+
+The visions are floating away down the river. After the visions fade, we were joined by a indigo-cloaked figure. We are also at brigands tollway. There are wooden bridges and root bridges.
+
+The indigo-cloaked figure lowers his hood to reveal a Harengon. He stole Oswald's signet ring, Alexandra's butterfly glasses, one of my wizard puppets of minor illusion.
+
+He refers the the wizard puppet as Ringulrun. The wizard from the Valors Call group. Agdan says Ringulrun and a paladin ran into him while he was tied to the tree. 
+
+
+A raft and a boat appear.
+Raft
+- 1 crossbow
+- 1 bagpiper
+- 1 brigands
+
+Boat
+- 1 crossbow
+- 1 bagpiper
+- 3 brigands
+
+He says his mom is going to be so mad. He says Bavlorna made him do that. He says his cache in the tree. We cut off part of his scarf and sewed bells into the rest of it. We took their boat to his fort.
+
+
+
 
 ### Todos
-- [ ] Do another infusion (cap water breathing)
+- [x] Do another infusion (cap water breathing)
 - We are in hither now? On your way to Downfall.  
 - On Level 4, consider Poisoner, Observant, Fey Touched, But really Flames of Phlegethos for a fire focus.
 - We have committed to return to Watcher.
