@@ -50,7 +50,7 @@ Gloves of fine moth silk that allows the bearer to cast the Light cantrip 3 time
 Wondrous item, uncommon
 A handkerchief of fine moth silk which allow the caster advantage on saves against being scryed on. Once per day, they also allow the bearer to cast Silence mimicking a moth's wings
 ```
-- Ceramic Scale Armor (wearing)
+- Ceramic Scale Armor (wearing) (Gives resistance to fire damage)
 - Normal scale mail (traded for saddle of many shapes)
 - Saddle of many shapes (wondrous)
 -- Forms onto any animal
@@ -58,9 +58,12 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - Scroll of Grease (consumed in fight with agdan the protenders)
 - Feymorian spit labeled and says "don't drink"
 - Sybella's unfashionable jewelry
-- A Yon object: a marionette with a stags on side, and lions head on the other. Like Janus a button flips the face around.
+- A Yon object: a marionette with a stags on side, and lions head on the other. Like Janus a button flips the face around. And a stuffed Oni.
 - A thither object:
 - A deer skull from Agdon's lair.
+- A wooden top with 4 sides. Each face shows a child enjoying each season
+- Clapperclaws temporary head, a gord with coins in it.
+
 
 ## Features and traits
 - Telekinetic

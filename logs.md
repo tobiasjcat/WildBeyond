@@ -136,7 +136,7 @@ The forth floor is covered in webbing. There is a birdcage with a fairydragon st
 
 Elmer is a man-spider suspended from the ceiling. He bit me twice and I passed out. Eventually Elmer surrendered to us. He thought that if he brought the fairydragon to Bavlorna, she will remove the curse that makes him a ~~man-spider~~.
 Bavlorna is in downfall where she holds court. She's doesn't like to leave downfall. Hither, Thither and Yon are locations.
-Sir Talavar, was imprisoned in downfall when wigglewog, the bullywog was leading him. Mogwart was helping Sir Talavar at the balloon factory.  
+Sir Talavar, was imprisoned in downfall when wigglewog, the bullywog was leading him. Morgort was helping Sir Talavar at the balloon factory.  
 I found abjuration magic reinforcing the cage.  
 Sue at The End of the Road, might know more about what's going on or have a way to get Talavar out. The watcher is a serpent with moose antlers that lives up north. Also a hobgoblin village. He is precient.  
 He warns us that Bavlorna is much tougher than Elmer. She makes some good deals and some bad deals.  
@@ -148,7 +148,7 @@ We slept here and played with Wover. I infused Alexandra's armor. Kadayif had so
 We are headed north to the Inn in snailside. Oroonoko is tasked with carrying Sir Talavar's cage.
 Sir Talavar waited until we were away from Elmer he told us more about the feywild. He says Bavlorna is running things. Zybilna's court is the summer palace. Sir Talavar was caught by a bucket.
 Normally a Hag is not powerful enough to run a realm of delight. The only hag powerful enough to to do that is Baba Yaga. We are in Prismir. Perhaps an unstable coven of Hags working together could run a realm of delight.
-He taken back to Downfall. The court of Downfall is called the soggy court. Let them speak kindly of wigglewog (the bullywog) and Mogwart. Wigglewog stole his cage. Mogwart was fighting a dozen Bullywogs and probably died.
+He taken back to Downfall. The court of Downfall is called the soggy court. Let them speak kindly of wigglewog (the bullywog) and Morgort. Wigglewog stole his cage. Morgort was fighting a dozen Bullywogs and probably died.
 Titania is the queen of the summer court and one of the most powerful.
 There is a feydark like the underdark where the feymorians, giants. The summer palace in a nation in the summer court which is a nations. Feymorians are about three oswalds tall.
 
@@ -408,7 +408,7 @@ The visions are floating away down the river. After the visions fade, we were jo
 
 The indigo-cloaked figure lowers his hood to reveal a Harengon. He stole Oswald's signet ring, Alexandra's butterfly glasses, one of my wizard puppets of minor illusion.
 
-He refers the the wizard puppet as Ringulrun. The wizard from the Valors Call group. Agdan says Ringulrun and a paladin ran into him while he was tied to the tree. 
+He refers the the wizard puppet as Ringulrun. The wizard from the Valors Call group. Agdan says Ringulrun and a paladin ran into him while he was tied to the tree.
 
 
 A raft and a boat appear.
@@ -423,6 +423,45 @@ Boat
 - 3 brigands
 
 He says his mom is going to be so mad. He says Bavlorna made him do that. He says his cache in the tree. We cut off part of his scarf and sewed bells into the rest of it. We took their boat to his fort.
+
+<hr>
+
+We rested here at Agdon's. The harengons give us a boat and point the way to Downfall.
+Downfall is misty. There is thick fog that limits our sight to 20ft.
+
+Someone's been balloons (Sir Talavar). We are watching out for Morgort.
+
+There are 2 bullywogs in a boat, wearing fancy soiled garb. They tell us we must see the king. All travelers must go see the king.
+
+There are clothesline with soiled, ill-fitted clothes hanging from them.
+
+There is hot-air balloon, staked to the ground. Swamp gas is filling it up, only to have it deflate when the gas escapes out holes. Two bullywogs are seweing it up. Sir Talavar slashed this balloon to prevent chase. They also tell us to go see the king.
+
+We started walked across stepping stones. One of them raised up and spoke to us. It didn't like being stepped on.
+
+We spotted a hut in the middle of the lake.
+
+We approached a wooden structure on stilts above the lake. Smoke billows from the conical roof. A bullywog invites us inside to help. The roof is starting to catch fire. There are many little fires inside. There are three wooden buckets. Two are filled with water. We helped fight the fire started by animated hot-coals. This is the balloon factory. We put of the fires.
+The workshop is in a bad shape. He gives us a broach that will identify us as friends of the court. Morgort has a pilot's license. Only Morgort and Wigglewog have licenses.
+
+We came to the bridge of talking heads. There are many bullywog heads mounted on spears. There was a child size figure on the bridge, with lobster claws. He mumbled to himself, and then all the heads started talking. Some of the heads can't hear the figure.
+The heads are former kings and queens. The figure is named Clapperclaws. Clapperclaws had a gord for a head, because the brigands stole his real head, the stags head we recovered from Agdon's lair. We traded it back for his gord head.
+
+Granny Scabbatha Nightshade created Clapperclaws who has travelled through the mist. She wanted Clapperclaws to work in her garden screaming.
+
+We went on to an island to meet King Gullop. A grand marble Gazebo, some pillars are sinking into the mud, and the gazebo is askew. Someone is playing the harp. They are going to root out traitors. He orders us wine and then dismisses the courtiers.
+
+`If it Pleases you, I Prince Pytchley of the Pipe Organs presents our party people: Pious Oswald, Puzzle-solving Alexandra and Polymorphing Kadayif.`
+
+I was passed to find Illig of Muckstump immediately, the revolution lives. The balloon factory was set ablaze by arsonists. The are in the prison past the proving grounds. They have trials by combat at the proving ground. They need a strong warrior.
+
+Gullop orders us to go to the Royal Tailor. He has a small crocodile called Snoodles. Gullop suspects the tailor stole Gullop's large black book. His advisor, Lady Squelchtoe is possibly involved.
+
+Gullop had taken Bavlorna's Big book of bad blood, a list of everyone who Bavlorna doesn't like. Gullop sent someone to take it.
+
+
+<hr>
+
 
 
 
