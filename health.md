@@ -60,9 +60,13 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - Sybella's unfashionable jewelry
 - A Yon object: a marionette with a stags on side, and lions head on the other. Like Janus a button flips the face around. And a stuffed Oni.
 - A thither object:
-- A deer skull from Agdon's lair.
+- A deer skull from Agdon's lair (traded to Clapperclaws for his temporary head)
 - A wooden top with 4 sides. Each face shows a child enjoying each season
 - Clapperclaws temporary head, a gord with coins in it.
+- Soggy court outfit: Denim epaulettes, fat denim necktie, denim ascot, false unicorn horn heels & indigo silk shorteralls.
+- Very sharp teeth from the Sinking Palace lost and found
+- A sprig of rosemary wrapped little bow
+- A mummified toad that when put a kettle of bucket of water, casts darkness for 10 minutes.
 
 
 ## Features and traits

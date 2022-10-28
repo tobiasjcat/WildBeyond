@@ -451,16 +451,48 @@ Granny Scabbatha Nightshade created Clapperclaws who has travelled through the m
 
 We went on to an island to meet King Gullop. A grand marble Gazebo, some pillars are sinking into the mud, and the gazebo is askew. Someone is playing the harp. They are going to root out traitors. He orders us wine and then dismisses the courtiers.
 
-`If it Pleases you, I Prince Pytchley of the Pipe Organs presents our party people: Pious Oswald, Puzzle-solving Alexandra and Polymorphing Kadayif.`
+`If it Pleases you, I Prince Pytchley of the Pipe Organs present our party people: Pious Oswald, Puzzle-solving Alexandra and Polymorphing Kadayif.`
 
-I was passed to find Illig of Muckstump immediately, the revolution lives. The balloon factory was set ablaze by arsonists. The are in the prison past the proving grounds. They have trials by combat at the proving ground. They need a strong warrior.
+I was asked to find Illig of Muckstump immediately, the revolution lives. The balloon factory was set ablaze by arsonists. The are in the prison past the proving grounds. They have trials by combat at the proving ground. They need a strong warrior.
 
-Gullop orders us to go to the Royal Tailor. He has a small crocodile called Snoodles. Gullop suspects the tailor stole Gullop's large black book. His advisor, Lady Squelchtoe is possibly involved.
+The note says
+`Find Illig, the Baron of Muckstump, at once. The revolution lives!`
 
-Gullop had taken Bavlorna's Big book of bad blood, a list of everyone who Bavlorna doesn't like. Gullop sent someone to take it.
+Gullop orders us to go to the Royal Tailor. He has a small baby crocodile called Snoodles. Gullop suspects the tailor stole Gullop's large black book. His advisor, Lady Squelchtoe is possibly involved.
 
+Gullop had taken Bavlorna's Big book of bad blood, a list of everyone who Bavlorna doesn't like. Gullop sent someone to take it. He then lost it and wants it back. He last had it at the tailor.
 
 <hr>
+
+He starts shoeing us off until the party to celebrate us.
+
+We crossed a path near to the Sinking palace and the Prison cells. The tailor is Baron Slimetongue of Festerblight in the Sinking Palace. The tailor shop has a wall of neckties and all the clothes smell like the building.
+
+I'm getting a wide denim necktie with a pocket, a bolo tie, and denim ascot. Also silk shorteralls and denim epaulettes.
+
+Kadayif didn't find the book with Slimetongue. Slimetongue remembered the king visiting with a tome when Lady Squelchtoe called him away urgently to see Glompglorp, The Great and Powerful Salamancer. Slimetongue seems earnest.
+
+We are planning on visiting to investigate Lady Squelchtoe. The guest book lists written in Gullop, Baron Grugenos, and The Duchess of the Algae Bloom. We are told that Earl Stinkwater is baking a cake for the party. Slimetongue directs us southward to the housing district where Grugenos lives.
+
+There is a knotty tree with a clothesline with very old homemade clothes dangling from them. One end of the clothesline disappears into the fog. From in the tree from Sprites start yelling rude things at us.
+
+We made scary illusions for them but that triggered the tree to attack. Big Barkless is a tree. The tree is enormous. It strikes Oswald heavily and we decided to flee.
+
+As we get out of sight of the tree, it feels cold, despair and ennui. A haunting flute is heard over a field of toadstools. We passed by to go to the Bullywog huts instead of investigating.
+
+We arrived at Grugenos' hut which he claims is humble. He has recently been named Baron. It is the Bullywog from Alexandra's vision. For the barony he procured something valuable for Gullop. He's nervous with the line of questioning. Oswald persuaded him to share is tale. He stole of a book from the lady in the middle of the lake (Bavlorna). Gullop wants to know if he is in the book, before he returns it. He says will feel better when the book is returned.
+
+He just walked right in supposedly. The house is on stilts. Inside is a bath. There are hornets and lornlings as protection. Kadayif heals his hornet bites. He was just lucky that she was not in the pool. There is a hidden passageway on the second floor behind the mirror. He doesn't know where the passageway leads.
+
+Bavlorna has a cook, and is friends with a merchant that came by. The merchant comes from Yon in a balloon made from clouds. Bavlorna has a lily-pad that is her chariot. The house is three stories tall.
+
+He tells us where Illig lives and we go there. The hut is locked and inside is a Bullywog clutching a spear. There are 4 more Bullywog here too. He claims Gullop is witless buffoon. They are upset that he canceled by Pizza-Thursdays, he let Talavar escape, among other things. Illig would the crown himself.
+
+He says he has great plans pointing to scrawled image on the floor of the king with a dagger in his eye. His plan is not very well thought out.
+
+There is a box is the back of the room with Bavlorna's name on it. Illig says the box has dead animals in it. He plans to deliver the dead animals to Bavlorna to appease her. Illig says Bavlorna doesn't like Gullop because he allowed Talavar escaped through the soggy court. Illig offers us mummified toad that when put into hot water, casts darkness for 10 minutes.
+
+
 
 
 
@@ -471,6 +503,9 @@ Gullop had taken Bavlorna's Big book of bad blood, a list of everyone who Bavlor
 - We are in hither now? On your way to Downfall.  
 - On Level 4, consider Poisoner, Observant, Fey Touched, But really Flames of Phlegethos for a fire focus.
 - We have committed to return to Watcher.
+
+
+
 
 
 .
