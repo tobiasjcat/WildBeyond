@@ -493,7 +493,7 @@ He says he has great plans pointing to scrawled image on the floor of the king w
 There is a box is the back of the room with Bavlorna's name on it. Illig says the box has dead animals in it. He plans to deliver the dead animals to Bavlorna to appease her. Illig says Bavlorna doesn't like Gullop because he allowed Talavar escaped through the soggy court. Illig offers us mummified toad that when put into hot water, casts darkness for 10 minutes.
 
 
-
+<hr>
 
 
 
