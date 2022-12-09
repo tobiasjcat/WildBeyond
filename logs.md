@@ -472,7 +472,7 @@ I'm getting a wide denim necktie with a pocket, a bolo tie, and denim ascot. Als
 
 Kadayif didn't find the book with Slimetongue. Slimetongue remembered the king visiting with a tome when Lady Squelchtoe called him away urgently to see Glompglorp, The Great and Powerful Salamancer. Slimetongue seems earnest.
 
-We are planning on visiting to investigate Lady Squelchtoe. The guest book lists written in Gullop, Baron Grugenos, and The Duchess of the Algae Bloom. We are told that Earl Stinkwater is baking a cake for the party. Slimetongue directs us southward to the housing district where Grugenos lives.
+We are planning on visiting to investigate Lady Squelchtoe. The guest book lists written in Gullop, Baron Grugenos, and The Duchess of the Algae Bloom. We are told that Earl Grumple of Stinkwater is baking a cake for the party. Slimetongue directs us southward to the housing district where Grugenos lives.
 
 There is a knotty tree with a clothesline with very old homemade clothes dangling from them. One end of the clothesline disappears into the fog. From in the tree from Sprites start yelling rude things at us.
 
@@ -492,16 +492,69 @@ He says he has great plans pointing to scrawled image on the floor of the king w
 
 There is a box is the back of the room with Bavlorna's name on it. Illig says the box has dead animals in it. He plans to deliver the dead animals to Bavlorna to appease her. Illig says Bavlorna doesn't like Gullop because he allowed Talavar escaped through the soggy court. Illig offers us mummified toad that when put into hot water, casts darkness for 10 minutes.
 
-
 <hr>
 
+We first asked them to look for the book for us but then we renegged and said we wouldn't get in their way.
+
+We then went to find Lady Squelchtoe. She has an office in the sinking palace and is an advisor to Gullop. Frog faces are on the art on the wood panelled walls. The wood is warped. She is looking at a desk with papers.
+
+We asked about why she called the king away from the tailors. She said Glompglorp the Salamancer requested the king. Salamancer can have visions.  
+
+Glompglorp the Salamancer is unreliable and has visions which sometimes predict the future. Glompglorp's dad was a construction worker who helped build the sinking palace.
+
+She tells us Bavlorna was mad that they lost Talavar.     
+
+There is one panel that stands out. Kadayif went outside to turn into a mouse to investigate the panel. I distracted Glompglorp while Kadayif found peep holes at the end of the hidden hallway and saw the tailor's place.
+
+We snuck into Salamancer's office. He has a crystal ball and a cloak. There is a portrait on the wall
+
+I found in the desk drawer is a flyer for a trinket emporium. It has a rotating selection of goods.
+```
+Charm, Trinket, and Bauble's Emporium of Goods
+All the way from Yon!
+Rotating Stock, when we're out we're out!
+
+Very good thimble (fingertip not included)
+Bundle of dry wood (great for starting fires)
+Moonlight Monocle (no more fumbling in the dark)
+Ink portraits (if we have to look at you, so should you)
+```
+
+We then attended the party having found nothing else of interest.
+
+Everyone is here. Duke Iggwilv is here and happy to see us.
+
+
+Gullop enlists Oswald into fighting Morgort in trial by combat.
+
+Salamancer is performing mundane party tricks. We see the princess, with her attendant, enthralled by the Salamancer. Salamancer disappeared with a smoke bomb against a wall.
+
+There is a blue elf in the corner who just finished playing a flute. Oswald and Alexandra talked to the princess. Octavian Melanine. Wishy washy. Came here for a deal.
+
+He had been having trouble with a girlfriend. Sometimes she would think she didn't love me. He couldn't bear being broken up with. He traded his heartbreak away with his heart for away for a goats heart. Now he doesn't feel heartbreak. He doesn't notice much, but emotions.
+
+He points out that Queen Mucklemoss is still cross, despite being engaged to the king. The merchants are here, they have parked their balloon behind the jail.
+
+Squelchtoe's servant lost something. Name is Revooles. Is here serving dishes.
+
+Salamancer says the merchants do have a spell book. He is afraid that the princess wants to have her killed. He says the merchants need a book to give up their spell book that he needs. He says he knows of Bavlorna's book and that Baron Grugenos stole it.
+
+Gullop wanted to know that he wasn't in the book. Lady Squelchtoe told him to steal the book. Squelchtoe wants Gullop to be killed by Bavlorna. She sent a servant through the secret passage where Salamancer stole it. Then someone took it from Salamancer. It's not in the swamp.
+
+Salamancer last had the book in his office. He left it there while he was leaving to get gunpowder to the "teleportation" trick. The gunpowder was in the stables.
+
+Perhaps someone purchased the Moonlight Monocle from the merchants.
+
+Oswald is approached by a waiter who tells him, lady Squelchtoe wants to speak to him.
+
+<hr>
 
 
 
 ### Todos
 - [x] Do another infusion (cap water breathing)
 - We are in hither now? On your way to Downfall.  
-- On Level 4, consider Poisoner, Observant, Fey Touched, But really Flames of Phlegethos for a fire focus.
+- On Level 4, consider Poisoner, ~~Observant~~, Fey Touched, But really Flames of Phlegethos for a fire focus.
 - We have committed to return to Watcher.
 
 
