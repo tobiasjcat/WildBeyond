@@ -549,13 +549,66 @@ Oswald is approached by a waiter who tells him, lady Squelchtoe wants to speak t
 
 <hr>
 
+Lady Squelchtoe presents a plan to destroy the Soggy Court. She wants to get the fighting tree, "Big Barkless", to follow someone who has taunted it to laying a path of destruction.
+
+Squelchtoe has a disgust for the way things exist as they are now.
+
+We went to go chat with Duke Ickrind.
+
+Hags are solitary but not social but they always have a coven.
+
+The cake is wheeled out. It is a beautiful cinnamon and swampwater and Gullop cuts it with a dagger. Inside the cake is a whole bullywog. The assassin was baked inside.
+
+Revooles was anxious about Squelchtoe firing him.
+
+We observed the Salamancer performing again. He is performing a vision on someone. He failed to hypnotize me with his touch but Alexandra leaned into seeing something. She did see visions of her husband. She also spoke to Zybilna who told her she was hallucinating.
+
+Zybilna is frozen in time. She had a material plane accent.
+
+1. Always check where you least expect it
+2. Always ask for the thing you want
+3. Don't pick a fight you can't win
+
+The baker ran off and escaped.
+
+We spoke to Gullop again to ask if he has recovered the book. But he has not found it again. He prepared a suite for us to stay in.
+
+We talked to Quobleslof, daughter of Gullop, to ask if she had any books but instead she said she had a burlap sack that produces a potato every morning. She says Lady Mucklemoss is very rich.
+
+Lady Mucklemoss is beautiful. She a crown of flowers and some unique markings. We approach while she is talking to someone who has frog faces on her shoulders. It is duchess Vlonk.
+
+The stables have large frogs that the bullywog ride.
+
+Kadayif turned into a lizard to investigate the tunnels. Near the Salamancer's office, there are two vials. One is labeled "Feymorian spit, do not drink". The other says "Giant frog hallucinogens"
+
+Kadayif also searched Gullop's room. There were some gems, a cool ball-and-cup toy, and a conch shell that sounds like people laughing.
+
+Kadayif then searched Mucklemoss' room. She has a painting of Gullop and alist of people she has bought gifts for. A note that Vlonk wants a promotion beyond the stables. There is one book in the room. The book is an unmarked diary. She wants to be the queen. He's been considering a marriage out of necessary. She really wants to ride a balloon.
+
+Then Kadayif searched the Princesses room. She has a living room that could receive visitors. Her shelf has a pinecone made of silver, a piano with keys made from satyr horns. SHe also has a tiny cauldron. A book of fairy tales. Her diary says that someone traded something to Bavlorna and then afterwards was able to teach her Prestidigitation.
+
+Kadayif then moved on to the Duchess of the Algae Bloom's room. The Duchess is in her room mumbling to herself. She is deciding whether or not to go to the party. She's mad she didn't get invited.
+
+Alexandra talked to Mucklemoss about why Duchess of Algae Bloom wasn't invited. Alexandra convinced Mucklemoss to invite the Duchess. This worked to get the Duchess out of her room so that Kadayif could investigate it as a lizard.
+
+Vlonk implies Duke Ickrind was kicked in the head by a giant frog.
+
+The Duchess of Algae Bloom's room has small furniture and no Big Book. This room is a mess. She has a cup of mildew. She has a large shard glass like a mirror. A small decorative statue of a frog and a teapot.
+
+We then talked to the Duchess at the party. She's not happy with her title.
+
+The party wraps up and we take to our quarters.
+
+<hr>
+
 
 
 ### Todos
 - [x] Do another infusion (cap water breathing)
-- We are in hither now? On your way to Downfall.  
 - On Level 4, consider Poisoner, ~~Observant~~, Fey Touched, But really Flames of Phlegethos for a fire focus.
 - We have committed to return to Watcher.
+- Put the names of the other hags in Bavlorna's Big Book
+- Buy the book of old spells from the merchants.
 
 
 

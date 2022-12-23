@@ -59,3 +59,12 @@ Mercion the cleric.
 Ringulrun the wizard.
 Elkhorn the fighter.
 Molliver the Rogue.
+
+
+## Good advice
+Make SMART goals
+Specific
+Measurable
+Attainable
+Reasonable
+Time-bound
