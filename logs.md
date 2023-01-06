@@ -601,15 +601,71 @@ The party wraps up and we take to our quarters.
 
 <hr>
 
+We take to our quarters which are fairly nice. There is a hottub/conversation pit.
+
+We left for the stables. On the way we found a unattended rowboat which we needed to get to the stable.
+
+The stable is large enough to store around two dozen giant toads. Inside I hear muttering in a Downfall accent and a hand-bell. Then I heard a giant wet slurp.
+
+I just went in and found someone flailing in the mouth of a Giant frog. He indicated that he wanted help getting out. The person is Lady Vlonk.
+
+She claims she is playing a game with "Swampbiscuit" the giant frog. Swampbiscuit is a giant frog. "Lightning" is the fastest, Patches is known for his beautiful worts. "Frisky-joe", "Ginki's", "Picklerick", "Peanut-hamper", et al. Some of the stables have toys and puzzles. They sit as little loafs like cats when they are sleeping.
+
+Kadayif sneaks around as a lizard but Frisky-Joe tried to eat her. She convinced him it was a fun trick and Frisky-Joe seemed excited to play with her. Vlonk says he's a good boy who is nice to ride. Kadayif gets Vlonk to show her how the frogs swim. The frogs are graceful and fast swimmers.
+
+Kadayif spots not froggy-people swimming under the surface. The scatter when spotted.
+
+Alexandra and I searched the stables while Vlonk was occupied. Swampbiscuit is out of his stable.
+
+We got Oroonoko to ring the bell to get Swampbiscuit to swallow him so that he could grab the book in. But then we all failed to extract him until Vlonk and Oswald worked together to pull Oroonoko out. Oroonoko pulled out the book.
+
+To trade for Frisky-Joe with Vlonk we need to help her assassinate Gullop by distracting his knights so they won't be able to pull him out of Swampbiscuit.
+
+On our way back to our suite, we spotted a large cauldron. I tried to open it with my mind, but it scuttled away. Out of the coals, a magmaman emerged and told us the brew is a spell of Polymorph that Bavlorna is brewing. He knows the password for the lid, but needs dry wood.
+
+Kadayif traded a bunch of cinnamon sticks for the password "Spittlespew". We collected a jars of the juice for each of us and then tipped over the cauldron into the water. I tried it and it turned me into a giant frog.
+
+We read the BBBBB. Bavlorna was mad that Scabbatha Nightshade didn't attend her party even though it was close to Scabbatha. Bavlorna doesn't seem to like the other hags.  
+
+While we sleeping, the rock person, Ignatius, knocks on the door and asks if he should get involved in the plot to be dropped on Gullop. We gave him an iron toenail to help us escape.
+
+
+The next day we went to the market. A big black balloon floats over the lake, a black basket hanging below it
+The balloon is a roiling raincloud. Fair fairs
+
+Two creatures are behind the counter. They are very grey and fey. Sinister looking. Kadayif recognizes them as Darklings.
+
+Darklings are seely fey who wronged the Summer Queen. She cursed all of them. They dwell in dark caverns and dungeons. Ply their trade as thieves and killers.
+
+Available items:
+- Very good thimble
+- Mug of Bumble Beer
+- Duskmallow Pie
+- Bundle of Dry Wood
+- Ink Portraits
+- Moonlight monocle (Kadayif traded opaque glasses for it)
+- Unicorn Horn
+- Dagger
+- Tank of Compressed Swamp Gas (Traded for my old name. My new name is Pytchley Pultusk)
+- Book of Magic
+
+On the way out, we ran into Mucklemoss who seemed surprised we survived the hottub.
+
+<hr>
+
+The plan for this session is to go right into the jailbreak. 
 
 
 ### Todos
 - [x] Do another infusion (cap water breathing)
 - On Level 4, consider Poisoner, ~~Observant~~, Fey Touched, But really Flames of Phlegethos for a fire focus.
 - We have committed to return to Watcher.
-- Put the names of the other hags in Bavlorna's Big Book
+- Put the names of the other hags in Bavlorna's Big Book.
 - Buy the book of old spells from the merchants.
-
+- Fey Touched:
+-- Misty step
+-- Find familiar
+-- +1 int
 
 
 

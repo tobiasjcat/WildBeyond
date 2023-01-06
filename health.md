@@ -35,7 +35,7 @@
 - Pixie dust. One minute of limited flying.
 - Witchlight branded wine (traded away for 6 weird teeth)
 - Cuddly spider of spiderclimb
-- Wizard puppet of minor illusion 3x
+- Wizard puppet of minor illusion 2x
 - Bells
 - Scatterleaf tea
 -- scattering the leaves in 5ft circle, equivalent of protection of good and evil
@@ -60,13 +60,17 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - Sybella's unfashionable jewelry
 - A Yon object: a marionette with a stags on side, and lions head on the other. Like Janus a button flips the face around. And a stuffed Oni.
 - A thither object:
-- A deer skull from Agdon's lair (traded to Clapperclaws for his temporary head)
+-- A deer skull from Agdon's lair (traded to Clapperclaws for his temporary head)
 - A wooden top with 4 sides. Each face shows a child enjoying each season
 - Clapperclaws temporary head, a gord with coins in it.
 - Soggy court outfit: Denim epaulettes, fat denim necktie, denim ascot, false unicorn horn heels & indigo silk shorteralls.
 - Very sharp teeth from the Sinking Palace lost and found
 - A sprig of rosemary wrapped little bow
 - A mummified toad that when put a kettle of bucket of water, casts darkness for 10 minutes.
+- Bavlorna's Big Book of Bad Blood.
+- 1x potion of Polymorph of Giant Frog
+- Tank of Compressed Swamp Gas
+
 
 
 ## Features and traits
@@ -94,7 +98,7 @@ At the end of a long rest, you can touch an item to make it magical. If it needs
 - [ ] Enhanced Defense
 - [x] Mind sharpener
 - [ ] Replicate Magical Item
--- [ ] Cap of water-breathing
+-- [x] Cap of water-breathing
 
 ### Cantrips
 - Thaumaturgy

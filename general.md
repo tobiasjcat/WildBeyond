@@ -68,3 +68,9 @@ Measurable
 Attainable
 Reasonable
 Time-bound
+
+## Hags
+Scabbatha Nightshade
+Bavlorna
+Endolyn
+Which are all daughters of Baba-Yaga
