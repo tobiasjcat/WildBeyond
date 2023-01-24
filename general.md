@@ -74,3 +74,11 @@ Scabbatha Nightshade
 Bavlorna
 Endolyn
 Which are all daughters of Baba-Yaga
+
+### Bavlorna
+Alergic to running wittershins (counter-clockwise)
+
+## Feywild laws
+- Hospitality
+- Reciprocity
+- Ownership

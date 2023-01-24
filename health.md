@@ -15,6 +15,7 @@
 ## Equipment
 - Mind sharpener
 -- 4/4 charges 1d4 daily (long-rest) charges to turn a failed concentration save into a success.
+-- In use by Kadayif
 - Scale mail armor (disadvantage to stealth)
 - Thieves's Tools as a part of kit of tools
 - +2 Thieves’ Tools. You have a +2 bonus to Dexterity checks made to pick locks using this set of thieves’ tools. Jingle Jangle will offer her tools to a fellow lockpicking enthusiast, but requests that they trade their tools to her.
@@ -26,15 +27,11 @@
 - A recipe for mock-human meat
 -- Mostly cave-fisher meat.
 - Bag of holding, with glitter
-- Impressive balloon octopus from Thaco (given to Oroonoko)
-- DVD of mulan rogue, go-go boots and fishnets (traded the fishnets for a set of swamp stilts)
 - 4x prize token
 - A cookie cutter shaped like a unicorn.
 - 1 set of false wooden teeth
 - 6x weird teeth
 - Pixie dust. One minute of limited flying.
-- Witchlight branded wine (traded away for 6 weird teeth)
-- Cuddly spider of spiderclimb
 - Wizard puppet of minor illusion 2x
 - Bells
 - Scatterleaf tea
@@ -51,16 +48,12 @@ Wondrous item, uncommon
 A handkerchief of fine moth silk which allow the caster advantage on saves against being scryed on. Once per day, they also allow the bearer to cast Silence mimicking a moth's wings
 ```
 - Ceramic Scale Armor (wearing) (Gives resistance to fire damage)
-- Normal scale mail (traded for saddle of many shapes)
 - Saddle of many shapes (wondrous)
 -- Forms onto any animal
 - Ogre's the glyph for moon written on to it. The roots are rotted.
-- Scroll of Grease (consumed in fight with agdan the protenders)
 - Feymorian spit labeled and says "don't drink"
 - Sybella's unfashionable jewelry
 - A Yon object: a marionette with a stags on side, and lions head on the other. Like Janus a button flips the face around. And a stuffed Oni.
-- A thither object:
--- A deer skull from Agdon's lair (traded to Clapperclaws for his temporary head)
 - A wooden top with 4 sides. Each face shows a child enjoying each season
 - Clapperclaws temporary head, a gord with coins in it.
 - Soggy court outfit: Denim epaulettes, fat denim necktie, denim ascot, false unicorn horn heels & indigo silk shorteralls.
@@ -70,6 +63,18 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - Bavlorna's Big Book of Bad Blood.
 - 1x potion of Polymorph of Giant Frog
 - Tank of Compressed Swamp Gas
+- Three gold rings found by my toes.
+- A stick that Vansle made flower. A stone of good luck. for 24 hours
+
+### Used
+- Witchlight branded wine (traded away for 6 weird teeth)
+- DVD of mulan rogue, go-go boots and fishnets (traded the fishnets for a set of swamp stilts)
+- A thither object:
+-- A deer skull from Agdon's lair (traded to Clapperclaws for his temporary head)
+- Scroll of Grease (consumed in fight with agdan the pretenders)
+- Normal scale mail (traded for saddle of many shapes)
+- Impressive balloon octopus from Thaco (given to Oroonoko)
+- Cuddly spider of spiderclimb (consumed to climb Bavlorna's well)
 
 
 

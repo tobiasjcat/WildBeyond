@@ -629,7 +629,6 @@ We read the BBBBB. Bavlorna was mad that Scabbatha Nightshade didn't attend her 
 
 While we sleeping, the rock person, Ignatius, knocks on the door and asks if he should get involved in the plot to be dropped on Gullop. We gave him an iron toenail to help us escape.
 
-
 The next day we went to the market. A big black balloon floats over the lake, a black basket hanging below it
 The balloon is a roiling raincloud. Fair fairs
 
@@ -643,7 +642,7 @@ Available items:
 - Duskmallow Pie
 - Bundle of Dry Wood
 - Ink Portraits
-- Moonlight monocle (Kadayif traded opaque glasses for it)
+- Moonlight monocle (Kadayif traded opaque glasses for it and gave it to Oswald)
 - Unicorn Horn
 - Dagger
 - Tank of Compressed Swamp Gas (Traded for my old name. My new name is Pytchley Pultusk)
@@ -653,15 +652,94 @@ On the way out, we ran into Mucklemoss who seemed surprised we survived the hott
 
 <hr>
 
-The plan for this session is to go right into the jailbreak. 
+The plan for this session is to go right into the jailbreak.
+
+The proving ground is muddy area that people have stomped flat. Small bleachers.
+
+The fight is scheduled to happen at noon.
+
+The prison is a sturdy wooden hut with two holding cells in the back. The bars are thick mangrove roots. There is a single guard mocking Morgort.
+
+Alexandra tried to talk him into leaving the jail to put down the tree but he was too scared of the tree.
+
+Kadayif mentally communicated with Morgort, who had a terrible escape plan that involved getting stabbed and then playing dead.
+
+So Oswald and I convinced the guard to leave where Alexandra then unlocked the cage with her special bell of unlocking.
+
+Morgort Tell us to be afraid of Bavlorna. An alarm was raised but we didn't investigate, choosing to row a boat to Bavlorna's hut.
+
+We took a short rest on the boat. We saw the balloon take off. I doesn't look like it's being well driven. Something fell out of the balloon.
+
+Under the stilts of the house we can see a well that goes up into the house.
+
+Kadayif cast Pass Without Trace on us. I climbed down the well with spiderclimb and a cap of waterbreathing. Searched the floor of the lake and found 3 gold rings with my feet. There was a dead merrow experiment on the floor.   
+
+I think ascended the well and my skin began to feel tingly. The water is getting acidic. Sometimes things are acidic.       
+
+I ran into a gelatinous cube in the well, it attacked me and so I ran away.
+
+We went through unlocked trap door instead where there is a pool in the middle of the room. Almost every service is covered in dirty and broken dishes.
+
+We looked at a group of dressing mannequins. One has a black pointed hat.
+
+We searched a fabric room with two human shaped pin cushions (voo-doo dolls). One is riding a little rocking horse and the other has wooden wings that look mechanical. A lot of the pins in the one on the horse are in the back. On the other, the pins are all over but a lot are concentrated on the eyes.
+
+We found a room with a large cupboard. There is a silver hourglass sigil, of the hourglass coven. I opened it with my mind.
+
+It opens by turning the hourglass upside down. Rows of small compartments. On has a mini cauldron with a little note saying "Spittlespew". There are love-letters, not sent to Bavlorna. Little trinkets of marginal value.
+
+The patio is covered in little regular-looking frogs.
+
+The final room is where Bavlorna mends beings together. I opened up a crate in the corner that has a dead basilisk in it.    
+
+We can't hear anything from below so we go up the spiral staircase going counter-clockwise. It leads into dank hallway with portraits of grumpy or unhappy people. The frames are nice. There is a framed mirror as well on the wall. One of the portraits is of Octavian.
+
+Alexandra looks through the mirror and sees herself but seems more neutral.
+
+We looked into the guest bedroom. In it are shadowboxes. They have mummified pixies except for one which is broken open.
+
+A dining room as well. It has two exits. There are two goblin heads mounted on the wall. There are six chairs on either side of a table. Nothing of interest in the cupboards.  
+
+Another room has a strange contraption with tubes and metal containers and buckets. A work table has bits of copper and metalworking tools. It is distilling equipment for collecting stinky alcohol. The still is on the brink of falling apart. The hopper is filled with mushrooms. Kadayif snapped a ring off the machine. It looks like a umbrella for pixies.
+
+We went into a large room with bloodstains. A gore splattered kitchen. A stout figure with armor chases vultures away from a butchers block. The small figure is the red-cap from my vision.
+
+Her name is Bloody-toes and she's the chef. She says the heart from my vision powers the freezer. She says the heart belongs to a sad-sack elf who was cold-hearted. She shows us the meat locker.      
+
+The meat locker has meat and a chest with the heart in it.
+
+Bloody-toes says there's a room with a wasps nest in it.
+
+The checked out a balcony on the second floor. Three large cages are hanging off. In one is a naked Vansle. He is pleased to see us. Brigands put him here after he lost everything in cards.     
+
+We brought him over to the balcony and freed him.   
+
+We checked out a pantry that contained, amoung otehr things, a campestri (a happy mushroom) in a jar. It signals that is not okay and wants to get out. It sings when it we open the jar. We took it and left a mushroom that makes people look old.
+
+From the other side of a door, we heard two voices being catty about a play. We opened that door and found two figures drinking tea. One is a tall thin woman of dark complexion. She looks like the type of creature that were the merchants. There is a another set of stairs.
+
+The other creature has bulging eyes, with gaping mouth that flies fly in and out of. There are two lornlings attached to her. The room is filthy. She has Kadayif's things but not anyone else's.
+
+
+Kadayif notices the not-Bavlorna (Charm) woman doesn't cast a shadow. Kadayif proposes a trade. Bavlorna proposes we do 3 small chores to get her to be willing to bargain.
+- Clearing the well   
+- Returning the book   
+- A package of hers, the animal carcasses   
+
+Instead Kadayif turned into a Moose and charged her so we fought it.
+
+Scabbatha has a portrait of herself in her stronghold. Bavlorna wants the Scabbatha portrait. Endolyn and Tasha. She gives us a portal bag of holding to send the portait back so we don't have to return here.
+
+
+
 
 
 ### Todos
+- A flowering stick from Vansle that gives +1 to ability checks and saves for 24 hours.
+- Talk to the campestri.
 - [x] Do another infusion (cap water breathing)
 - On Level 4, consider Poisoner, ~~Observant~~, Fey Touched, But really Flames of Phlegethos for a fire focus.
 - We have committed to return to Watcher.
-- Put the names of the other hags in Bavlorna's Big Book.
-- Buy the book of old spells from the merchants.
 - Fey Touched:
 -- Misty step
 -- Find familiar
