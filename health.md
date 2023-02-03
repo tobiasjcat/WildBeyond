@@ -31,7 +31,7 @@
 - A cookie cutter shaped like a unicorn.
 - 1 set of false wooden teeth
 - 6x weird teeth
-- Pixie dust. One minute of limited flying.
+- Pixie dust. One minute of limited flying. (used to escape from Bavlorna's place)
 - Wizard puppet of minor illusion 2x
 - Bells
 - Scatterleaf tea
@@ -55,16 +55,21 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - Sybella's unfashionable jewelry
 - A Yon object: a marionette with a stags on side, and lions head on the other. Like Janus a button flips the face around. And a stuffed Oni.
 - A wooden top with 4 sides. Each face shows a child enjoying each season
-- Clapperclaws temporary head, a gord with coins in it.
+- Clapperclaw's temporary head, a gord with coins in it.
 - Soggy court outfit: Denim epaulettes, fat denim necktie, denim ascot, false unicorn horn heels & indigo silk shorteralls.
 - Very sharp teeth from the Sinking Palace lost and found
 - A sprig of rosemary wrapped little bow
 - A mummified toad that when put a kettle of bucket of water, casts darkness for 10 minutes.
 - Bavlorna's Big Book of Bad Blood.
-- 1x potion of Polymorph of Giant Frog
+- 1x potion of Polymorph of Giant Frog (needed to roll a d4 to find out what happens)
 - Tank of Compressed Swamp Gas
 - Three gold rings found by my toes.
 - A stick that Vansle made flower. A stone of good luck. for 24 hours
+- 12 inch tall marionette - one face moon, one face sun. Worth 25gp.
+- Ticket to the Witchlight Carnival, autographed by Isolde, the carnivals previous owner.
+- 3x scrolls of Identify.
+- A helm of telepathy.
+
 
 ### Used
 - Witchlight branded wine (traded away for 6 weird teeth)

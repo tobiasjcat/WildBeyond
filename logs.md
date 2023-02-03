@@ -730,6 +730,63 @@ Instead Kadayif turned into a Moose and charged her so we fought it.
 
 Scabbatha has a portrait of herself in her stronghold. Bavlorna wants the Scabbatha portrait. Endolyn and Tasha. She gives us a portal bag of holding to send the portait back so we don't have to return here.
 
+<hr>
+
+Bavlorna wants someone to clear out her pool.
+
+She has a staff with mirrors dangling from it. She takes one of the mirrors off and sees in it, the elven couple from the bar. She thinks they will clean out her pool. Elim the woman and male Torkal from Amn.
+
+Someone comes down the stairs in this room. It's just a shadow. Charm stares at the shadow. Charm leaves when the shadow approaches.
+
+Charm is a sibling of the other Darklings who run the market. She is handed a spool of thread by her shadow.
+
+Charm tells us we are mortals and we can break deals. She also tells us that what Kadayif is missing is a pipe.  
+
+She was here stealing that spools of thread that is the color of frustrated.
+
+Endolyn Moongrave is the youngest and most precocious of the sisters. Motherhorn is in Yon and is a nice theatre that has new plays every day.
+
+Elim and Torkal arrived after we rested. They told us about their journey where they ran into king Illig.
+
+They made a deal with Bavlorna for something in exchange for clearing the blockage in the pool. We helped them kill the gelatinous cube.
+
+Kadayif turned into a Giant Wolf Spider to climb up to the third floor and lowered a rope down to the balcony on the second floor for us to climb up.
+
+As Kadayif came into the room there is a single dying lorning. It died shortly after Kadayif entered.
+
+There is a squat chest of drawers and stocky chest with an iron padlock.
+
+I picked the chest open but then the floating light attacked. I burned it to death.
+
+Inside the chest is a marionette and an unpunched ticket to the Witchlight carnival Isolde and three scrolls of identify.
+
+The squat cabinet has 4 withered potted plants on top of it. All of the clothes are sized for Bavlorna. I righted the plants and watered them. They look evil and like the big tree outside. Being watered, it gave me a key wrapped in a poem. The key is for the chest. The first letter of each line spells "FROGMOUTH".
+
+The next room is a storeroom. Mostly junk but a white porcelin jar using chicken legs to stand. A fancy helmet on faceless wooden mannequin. A 4ft bronze frog, it's mouth open and but impenetrability dark.
+
+Kadayif reached straight into the frogmouth, said the name of the thing she lost and retrieved a strange pipe. Blowing into it, it produced music and pictures of any animal you choose. The pictures and extremely detailed.
+
+Kadayif feels whole again and she sings a wonderful song.
+
+We identified the helmet on the mannequin as a helm of telepathy.
+
+We also got a hint from a broken wishbone.
+
+I terrorized Oroonoko by telling him the Polymorphed party members are giant frogs.
+
+We met up with Morgort.
+
+Clapperclaw relayed news to us. Vlonk got eaten by a giant frog. Duke Ickrind missed with rocks and the loss of ballast sent him away.
+
+We take off in the swamp balloon with Clapperclaw and Morgort to Thither. We didn't see any air elementals.
+
+On the way we spotted a flying snake dragon. It's the Jabberwock. We descended as fast as we could but that was into a forest. We all stayed in the basket.
+
+We are in Thither.
+
+<hr>
+
+
 
 
 
