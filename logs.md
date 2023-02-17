@@ -21,7 +21,7 @@ I caught one of the welcome gifts. Eventually I spotted a group of four traveler
 There is a rail line with carts with seats for 8. We are riding the carts with another couple. The rail line goes into a dragon mouth. Inside their were visions of snakes everywhere! There was also a vision of Alexandra's son dressed as a town guard. Suddenly, I'm in my underwear and everyone is laughing at me, it's terrifying. Then a couple of thugs, ordered by a stately dressed woman to attack us. One more vision appears. The shadow of a woman, dressed as an acrobat. Lights on the ride go out and people scream. Zephixo yells "It's not supposed to do this, I'll try rebooting it". He also recommends Tasha's Fortuneteller.
 
 The booth is a wooden, mechanical dummy. Tasha is a witch-queen who wrote the Demonomicon. Fortune-telling is out of character for her. A halfling couple, in front of us, proposes and the recipient starting rolling on the ground laughing. The proposer ran into the nearby hall of illusions to hide out of embarrassment. Kadayif discovered that perhaps the proposee was magically induced to laugh. Inside the hall of illusions is a series of mirrors which initially reflect our childlike appearances. Later in the maze, our reflections get older. We found the proposer looking at a mirror with a little girl in a pig-mask looking back at him. The proposer is named Rueben. Eventually they meet back up outside the hall and make amends.
-With that complete, we all approached the booth to get a fortune but fell under a laughing spell. Still got a fortune though: an embossed card "Scabbatha Nightshade and can't remember the first creature she sees when she wakes up"
+With that complete, we all approached the booth to get a fortune but fell under a laughing spell. Still got a fortune though: an embossed card "Skabatha Nightshade and can't remember the first creature she sees when she wakes up"
 
 After we all got our weird fortunes we headed towards the lost property booth to look for the things we have lost. We met Dirlagraun outside the lost property. Dirlagraun loves children and children love playing with her. One child runs away.
 
@@ -32,7 +32,7 @@ Back at lost-and-found, Dirlagraun apologizes for spooking the child who ran. Th
 
 Next stop Calliope. A goblin dressed as a ladybug shakes a cup at us. Ernest the Monkey is playing the instrument. I and Oswald gave him buttons. The Calliope plays music that reflects the mood of the carnival. Ernest is in the body of his trained monkey Bubbles. Bubbles has the body. The body may be balding. Suddenly the Calliope starts playing discordant notes along with the regular notes. The discordant notes stop for a second and a person hiding in the shadows begins to run. I tripped them telekinetically and Oswald grabbed em. The target looks human but patting her down I felt feathers. It's the rebellious kenku who has been causing problems! She says she's on a mission to find her mission patron Zybilna. Her name is Kettlesteam. She wanted to cause a ruckus until the owners show her how to get to the feywild. We released her under the understanding that she would return after the big-top extravaganza.
 
-We were on the way to the feasting grounds when we passed a commotion at the Carousel. Diana Cloppington the centaur, is complaining the Carousel won't stop. She's quite upset that she can't fit onto the ride. Diana told Alexandra that she made a deal with a hag to be reunited with her lost warhorse and that's how she ended up as a centaur. A few of us forced our way to the center of the Carousel and were able to stop the gear mechanism to stop the Carousel. Diana told us that the unicorns on the Carousel were made by a hag and have powers of divination. If we name the unicorns we can talk to them. Four of them are partially named. Alexandra immediately figured out their names and we started riding them. They whispered mysterious things at us. Mine whispered with Oswald "Scabbatha Nightshade, granny Nightshade to some. Has the things we seek, you must find her to get your things back. Her lair is a dead hollowed out tree in a sylvan forest. She's part of the hourglass coven with her sisters who she hates but needs." Diana tends to our wounds before we go.
+We were on the way to the feasting grounds when we passed a commotion at the Carousel. Diana Cloppington the centaur, is complaining the Carousel won't stop. She's quite upset that she can't fit onto the ride. Diana told Alexandra that she made a deal with a hag to be reunited with her lost warhorse and that's how she ended up as a centaur. A few of us forced our way to the center of the Carousel and were able to stop the gear mechanism to stop the Carousel. Diana told us that the unicorns on the Carousel were made by a hag and have powers of divination. If we name the unicorns we can talk to them. Four of them are partially named. Alexandra immediately figured out their names and we started riding them. They whispered mysterious things at us. Mine whispered with Oswald "Skabatha Nightshade, granny Nightshade to some. Has the things we seek, you must find her to get your things back. Her lair is a dead hollowed out tree in a sylvan forest. She's part of the hourglass coven with her sisters who she hates but needs." Diana tends to our wounds before we go.
 
 We arrive a the feasting orchard. The trees have fruit. There is a fairycake eating contest going on. Craig from goblin wresting is competing as well. Alexandra won after beating me out by a single cupcake. Overall we ate more than 40 cupcakes.
 
@@ -447,7 +447,7 @@ The workshop is in a bad shape. He gives us a broach that will identify us as fr
 We came to the bridge of talking heads. There are many bullywog heads mounted on spears. There was a child size figure on the bridge, with lobster claws. He mumbled to himself, and then all the heads started talking. Some of the heads can't hear the figure.
 The heads are former kings and queens. The figure is named Clapperclaws. Clapperclaws had a gord for a head, because the brigands stole his real head, the stags head we recovered from Agdon's lair. We traded it back for his gord head.
 
-Granny Scabbatha Nightshade created Clapperclaws who has travelled through the mist. She wanted Clapperclaws to work in her garden screaming.
+Granny Skabatha Nightshade created Clapperclaws who has travelled through the mist. She wanted Clapperclaws to work in her garden screaming.
 
 We went on to an island to meet King Gullop. A grand marble Gazebo, some pillars are sinking into the mud, and the gazebo is askew. Someone is playing the harp. They are going to root out traitors. He orders us wine and then dismisses the courtiers.
 
@@ -625,7 +625,7 @@ On our way back to our suite, we spotted a large cauldron. I tried to open it wi
 
 Kadayif traded a bunch of cinnamon sticks for the password "Spittlespew". We collected a jars of the juice for each of us and then tipped over the cauldron into the water. I tried it and it turned me into a giant frog.
 
-We read the BBBBB. Bavlorna was mad that Scabbatha Nightshade didn't attend her party even though it was close to Scabbatha. Bavlorna doesn't seem to like the other hags.  
+We read the BBBBB. Bavlorna was mad that Skabatha Nightshade didn't attend her party even though it was close to Skabatha. Bavlorna doesn't seem to like the other hags.  
 
 While we sleeping, the rock person, Ignatius, knocks on the door and asks if he should get involved in the plot to be dropped on Gullop. We gave him an iron toenail to help us escape.
 
@@ -728,7 +728,7 @@ Kadayif notices the not-Bavlorna (Charm) woman doesn't cast a shadow. Kadayif pr
 
 Instead Kadayif turned into a Moose and charged her so we fought it.
 
-Scabbatha has a portrait of herself in her stronghold. Bavlorna wants the Scabbatha portrait. Endolyn and Tasha. She gives us a portal bag of holding to send the portait back so we don't have to return here.
+Skabatha has a portrait of herself in her stronghold. Bavlorna wants the Skabatha portrait. Endolyn and Tasha. She gives us a portal bag of holding to send the portait back so we don't have to return here.
 
 <hr>
 
@@ -770,7 +770,7 @@ Kadayif feels whole again and she sings a wonderful song.
 
 We identified the helmet on the mannequin as a helm of telepathy.
 
-We also got a hint from a broken wishbone.
+We also got a hint from a broken wishbone. "Skabatha forgets the first creatures she sees when she wakes up, although her memory of it returns each night when she sleeps. A creature forgotten by Skabatha in this manner is invisible to her."
 
 I terrorized Oroonoko by telling him the Polymorphed party members are giant frogs.
 
@@ -786,22 +786,70 @@ We are in Thither.
 
 <hr>
 
+There is a different twilight here. The jabberwock is distracted by the balloon so we left. We hear a river but no birds.
+
+Clapperclaw was created by Skabatha here in Thither. Skabatha lives in a big fallen tree in Loomlurch. Loomlurch was a treant before Skabatha had him felled.
+
+One of the trees has a wanted poster of a kid with things to steal.
+```
+Wanted!!!
+Will of the Feywild.
+Special offer!
+Bring this impetuous brat to me and you claim one item of you choice from my workshop.
+- Granny Nightshade
+```
+
+Little Oak is a treant. One of the only treants.
+
+
+As we travel, two goblins drive a cart labeled "Gordle and Dibbs’ Fine Confections". It is driven by an angry mule. The two are looking to win a candy competition. They are rivals with a owl-fairy. She's been getting secret ingredients from Oliver.
+
+They have
+- Amber hard candy with a beetle encased inside.
+- A lolipop made out of ants
+- Jellied worms in a little jar
+- Chocolate that takes like pickle
+
+
+We keep came to the river and followed it inland. Another poster for Will of the Feywild proclaims his live return to Skabatha will earn 10 years of youth.
+
+Out from webbed holes in ground, three clockwork burrowing spiders jumped out and attacked us. They were not made by skilled experts. In one of the burrows is a mummified goblin.
+
+Another poster promises the heart of someone you love for returning the Will of the Feywild.
+
+Suddenly squirrels start chittering a warning before vines burst up from the ground, entangling Alexandra and I.
+
+A small goblin makes herself seen. She calls us Mercenaries. But tells us we have her friends. We convinced her that we were kidnappers for Skabatha. Her name is Squeakity-squeak.
+
+She talks to the squirrels. Alexandra learns from the squirrels that Skabatha is cutting down trees to turn into toys at her workshop. Some of the trees contained dryads.
+
+Skabatha has children make wind up toys for her. Some of Zybilna's magic remains that protects them from attacks.
+
+Will and the Getaway Gang live in Little Oak.
+
+Boggles are sadness brought into being.
+
+There are some refugees on the floating islands. Terrace town is a goblin cities. Unicorns are rumored here.
+
+We need to take the mushroom to a fairy circle. The fairy circles are used for teleportation. Some of them are activated with a rhyme, some need the full moon.
+
+Fire is effective against ettercaps.
+
+<hr>
+
+Consider finding Little Oak.
+
 
 
 
 
 
 ### Todos
-- A flowering stick from Vansle that gives +1 to ability checks and saves for 24 hours.
 - Talk to the campestri.
 - [x] Do another infusion (cap water breathing)
 - On Level 4, consider Poisoner, ~~Observant~~, Fey Touched, But really Flames of Phlegethos for a fire focus.
 - We have committed to return to Watcher.
-- Fey Touched:
--- Misty step
--- Find familiar
--- +1 int
-
+- We need to take the mushroom to a fairy circle.
 
 
 

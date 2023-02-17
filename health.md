@@ -68,7 +68,14 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - 12 inch tall marionette - one face moon, one face sun. Worth 25gp.
 - Ticket to the Witchlight Carnival, autographed by Isolde, the carnivals previous owner.
 - 3x scrolls of Identify.
-- A helm of telepathy.
+- A helm of telepathy. (worn by Pytchley)
+- 6 Pieces of magical candy from Gordle and Dibbs
+- Bobbin of mechanical spider silk (rope)
+- A bottle of water
+- A tiny duskwood coffin, containing the ashes of a troll.
+- A jar of soap that smells like something from my childhood.
+- A sprouted acorn.
+- A yellow sapphire worth about 100gp.
 
 
 ### Used

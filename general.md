@@ -7,7 +7,7 @@ Sincerely,
 Madryck Roslof
 ```
 # A fortune
-`Scabbatha Nightshade and cant remember the first creature she sees when she wakes up`
+`Skabatha Nightshade and cant remember the first creature she sees when she wakes up`
 
 
 # Attractions
@@ -70,7 +70,7 @@ Reasonable
 Time-bound
 
 ## Hags
-Scabbatha Nightshade
+Skabatha Nightshade
 Bavlorna
 Endolyn
 Which are all daughters of Baba-Yaga
