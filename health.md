@@ -76,6 +76,7 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - A jar of soap that smells like something from my childhood.
 - A sprouted acorn.
 - A yellow sapphire worth about 100gp.
+- An opalescent conch shell that produces the sound of laughter when you hold it to your ear. The laughs are different. 
 
 
 ### Used

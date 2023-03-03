@@ -2,7 +2,7 @@
 Four of them were invited to the pumpkin farm house of Madryck. An old man. The house is made out of a house sized pumpkin. The house is cozy. Zybilna is his patron and Madryck knows that these four have lost something at the carnival. He has lost contact with Zybilna. Madryck wants them to find someone named Prismir stuck in the feywild.
 Zybilna is an archfey, which is considered a fairy godmother among her followers. Casimir claims to have met her. Alexandra has a book that speaks to Zybilna. Kadayif is strange. Oswald does not know what could be dangerous about the feywild.
 Normally Madryck would communicate with Zybilna about the safety of the feywild.
-Madryck summoned a carrige for them to take them to the carnival. Fey don't accept gold currency so to speak. The carrige is carved from a pumpkin but not slimy inside.
+Madryck summoned a carriage for them to take them to the carnival. Fey don't accept gold currency so to speak. The carriage is carved from a pumpkin but not slimy inside.
 The carnival's owners are from shadowfell.
 
 Meanwhile, at sunset, I am in a flying carriage as part
@@ -408,7 +408,7 @@ The visions are floating away down the river. After the visions fade, we were jo
 
 The indigo-cloaked figure lowers his hood to reveal a Harengon. He stole Oswald's signet ring, Alexandra's butterfly glasses, one of my wizard puppets of minor illusion.
 
-He refers the the wizard puppet as Ringulrun. The wizard from the Valors Call group. Agdan says Ringulrun and a paladin ran into him while he was tied to the tree.
+He refers the the wizard puppet as Ringulrun. The wizard from the Valor's Call group. Agdan says Ringulrun and a paladin ran into him while he was tied to the tree.
 
 
 A raft and a boat appear.
@@ -714,7 +714,7 @@ The checked out a balcony on the second floor. Three large cages are hanging off
 
 We brought him over to the balcony and freed him.   
 
-We checked out a pantry that contained, amoung otehr things, a campestri (a happy mushroom) in a jar. It signals that is not okay and wants to get out. It sings when it we open the jar. We took it and left a mushroom that makes people look old.
+We checked out a pantry that contained, among other things, a campestri (a happy mushroom) in a jar. It signals that is not okay and wants to get out. It sings when it we open the jar. We took it and left a mushroom that makes people look old.
 
 From the other side of a door, we heard two voices being catty about a play. We opened that door and found two figures drinking tea. One is a tall thin woman of dark complexion. She looks like the type of creature that were the merchants. There is a another set of stairs.
 
@@ -839,13 +839,48 @@ Fire is effective against ettercaps.
 
 Consider finding Little Oak.
 
+Walking down by the river, we come to a huge but unhealthy tree. There are three bleeting goats near scythes in the leafs. Squirrels dart nervously.
+
+Alexandra learns from the squirrels that the goats were redcaps. There are pixies in the houses that is in the tree.
+
+The redcaps are creatures of pure rage.
+
+After we defeated the redcaps, the pixies told us that the unhealthy tree is a indicator of the health of Thither. They think it is sickened by her presence.
+
+Grandfather tree is an old and special tree. Legend has it that an elf druid wanted to tend to her trees longer than her life would allow. She made a deal with Zybilna to become this tree and be a home for the squirrels.
+
+Skabatha grows redcaps in a garden near her place. All they want to do in the world is dip their caps in blood.
+
+The pixies confirm that the river leads to the Wayward Pool. As we go, trees curl around us making a tunnel. We see another wanted poster for Will. We also spot words carved into a tree "Three turns wittershins and off we go". I spun around three times, and it seemed like something happened but I'm not sure what.
+
+The twilight is different are more dusky. It's nice; we hear more sounds of things being alive. Birdsong and such. The vines and trees form a tunnel. We heard a deep melodious voice reading fairy tails but can only make out every third word. We hear about sisters, magic and spells. It's about love.
+
+The tunnel starts to turn into a large glade with a large spider holding a book. It is reading to a group of animals who are rapt in attention. It just finished. "Welcome to Fabblerise". His name is Yarn-spinner and he is the archfey. He focuses on reading the collection of stories.
+
+We feel the power of the most powerful being in the area. An archfey is a ruler of a domain, who wants to improve the lives of those who live there. Zybilna is also an archfey but much more powerful.
+
+He doesn't know about Thither. He awakened the animals so that they could hear his stories. He tells a story of a paladin Strongheart, a member of the Valor's call group. There is a Unicorn that reversed some bad spell.
+
+An animal told Kadayif a story about a big tree and a little tree working together. The big tree died.
+
+Volt (Frisky Joe) likes scritches from Oswald.
+
+When we go to bed in the comfortable silk huts Yarnspinner made for us, we have vivid dreams. All of us are in the dreams. Oroonoko is in the dreams too, dreaming about rescuing me from the mouth of a giant frog. We all see each other's dreams too. In the background a ghostly spider watches everything.
+
+We all forgot each other's names. We talked to a fox named Andrew who said. Andrew told us another two-legged person who lost their name.
+
+The person inside is someone who could be a half-dwarf half-orc. They call him Nobody until he knows his name again. Nobody whispers that he found Yarnspinner's library by following him. He thinks names are in the library.
+
+<hr>
+
+We decided to follow Nobody to the library.
 
 
 
 
 
 ### Todos
-- Talk to the campestri.
+- Talk to the campestri (the happy mushroom in the jar).
 - [x] Do another infusion (cap water breathing)
 - On Level 4, consider Poisoner, ~~Observant~~, Fey Touched, But really Flames of Phlegethos for a fire focus.
 - We have committed to return to Watcher.
