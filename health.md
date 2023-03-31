@@ -64,7 +64,7 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - 1x potion of Polymorph of Giant Frog (needed to roll a d4 to find out what happens)
 - Tank of Compressed Swamp Gas
 - Three gold rings found by my toes.
-- A stick that Vansle made flower. A stone of good luck. for 24 hours
+- [x] A stick that Vansle made flower. A stone of good luck. for 24 hours
 - 12 inch tall marionette - one face moon, one face sun. Worth 25gp.
 - Ticket to the Witchlight Carnival, autographed by Isolde, the carnivals previous owner.
 - 3x scrolls of Identify.
@@ -76,7 +76,16 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - A jar of soap that smells like something from my childhood.
 - A sprouted acorn.
 - A yellow sapphire worth about 100gp.
-- An opalescent conch shell that produces the sound of laughter when you hold it to your ear. The laughs are different. 
+- An opalescent conch shell that produces the sound of laughter when you hold it to your ear. The laughs are different.
+- "The Magic of Creative Writing" A spellbook that is the equivalent of 1 scroll each of
+-- Cause Fear
+-- Charm Person
+-- Comprehend Languages
+-- Illusory Script
+-- Sleep
+-- Tasha's Hideous Laughter
+- A scroll of Borrowed Knowledge
+- Boots of Spiderclimb
 
 
 ### Used

@@ -82,3 +82,18 @@ Alergic to running wittershins (counter-clockwise)
 - Hospitality
 - Reciprocity
 - Ownership
+
+## Yarnspinner stories
+
+```
+“Once upon a time, there was a paladin named Strongheart, the most courageous human in the land. He and his fearless unicorn steed were part of Valor’s Call, a group of protectors who brought peace to the good folk of the world. But the forces of evil are not always so easily stifled.
+From the shadows, a group of villains banded together with a single purpose in mind: the accumulation of power. A greedy, narcissistic human sorcerer named Kelek led the band with his right-hand man, Zarak, the most lethal of assassins. The two hatched a brilliant plan to extort the archfey of Prismeer, Zybilna, and steal her power and wealth.
+When Valor’s Call learned what Kelek and his League
+of Malevolence intended to do, it was with steadfast determination that they steeled themselves for battle. Strongheart, always the protector, turned to his unicorn with a heavy heart. “The Feywild lies far beyond anywhere we’ve ever imagined, and I fear Valor’s Call may not return. I cannot let any harm come to you and need you to remain.” And so Strongheart’s unicorn stayed behind as Valor’s Call traveled to Prismeer.
+The League of Malevolence quickly approached Prismeer, unstoppable as they breached Zybilna’s grounds. But as they entered the magical Palace of Heart’s Desire, they were met with an ambush! Valor’s Call was waiting! Spells shot through the air, swords clashed, and Valor’s Call quickly realized that their fears were well-founded: they were going to lose.
+
+But just as Valor’s Call was on the brink of destruction, a blinding glow filled the hall. Zybilna appeared in all her power, already spinning a spell to undo the destruction and stop
+the evil League. Valor’s Call breathed a sigh of relief that the powerful archfey joined the fight, but their respite was short lived: unbeknownst to Zybilna, Zarak had orchestrated a
+trap, set by his allies, the witches of the Hourglass Coven. As Zybilna reached for her cauldron to finalize her ultimate spell, she brushed against its surface. Like ice spreading across a lake, the curse shot through the room, locking everyone in place, and freezing the whole palace in time.
+But not even the wretched curse could stop the call of Strongheart’s beating heart across the planes. This beating reached the ears of his unicorn companion, who summoned all of his strength to will himself through the fabric of reality to Zybilna’s palace. Not even the mightiest magic could withstand his healing touch, and the unicorn was able to reverse the spell and bolster the heroes. Together, they defeated the League of Malevolence. In the end, Strongheart prevailed and the realm was saved, but he learned a valuable lesson: he couldn’t do it alone.”
+```

@@ -839,7 +839,7 @@ Fire is effective against ettercaps.
 
 Consider finding Little Oak.
 
-Walking down by the river, we come to a huge but unhealthy tree. There are three bleeting goats near scythes in the leafs. Squirrels dart nervously.
+Walking down by the river, we come to a huge but unhealthy tree. There are three bleating goats near scythes in the leafs. Squirrels dart nervously.
 
 Alexandra learns from the squirrels that the goats were redcaps. There are pixies in the houses that is in the tree.
 
@@ -875,16 +875,42 @@ The person inside is someone who could be a half-dwarf half-orc. They call him N
 
 We decided to follow Nobody to the library.
 
+Yarnspinner is voiced by Lavar Burton.
+
+We enter the Scriptorium. The entrance has the words "Only an open book may enter". We had to tell the truth to get the door open. Nobody is here to loot too.
+
+Inside is a great hall full of books, categorized. On the ceiling is written in spider silk "Don't judge a book by its cover".
+There is a spellbook about creative writing that we took.
+
+I looked at the ugliest books, old encyclopedias but only found a mysterious source of light behind the books.
+
+Kadayif pokes her staff into the hole where I found light and meets no resistance no matter how far she pokes. There is a window behind the bookshelf.
+
+In the window is another room, lined with silk tapestries. There is podium made of roots. The podium contains a half-finished book that Yarnspinner is writing: "Wild Beyond the Witchlight". We each get our names back when we read them in the new book.
+
+Nobody tore up a book that Yarnspinner was reading yesterday "The Adventures of Strongheart" and then left.
+
+As we inspected the magical candle that lights the room, Yarnspinner as he appeared in our dreams, entered the room. Kadayif didn't see him at all. "We can't let Yarnspinner find out about the names." He is the part of Yarnspinner that takes names and helps Yarnspinner write the stories. We killed it and it disappeared.
+
+We checked out the other room, the book-return/reading room. It has a half-full shelf labeled "Please return books here". There is a story "There the Campestri Sing". "Dr. Lorenstein".
+
+Someone is in the eastern room, an awakened brown bear reading "Where the Feywild Things Are". She is having trouble reading "The boy sped through the thorns fast as a hare as he whistled a tune and ran backwards." Her name is Brown Bear. She gives us a scroll of Borrowed Knowledge.
+
+
+Yarnspinner hears from Andrew that we lost our names and was concerned about it. We told him not to worry about it. He wants to detach this place from Thither to prevent evil influences from entering Fabblerise. If you find a mushroom circle, whistle a tune and run backwards, you may be able to return here.
+
+He gives us a set of Boots of Spiderclimb. 
 
 
 
 
 ### Todos
+- [ ] Use History check to find out how to use fairy rings to travel. Someone has advantage to make these checks because they read the "Lord of the Fairy Rings" books.
 - Talk to the campestri (the happy mushroom in the jar).
+- We need to take the mushroom to a fairy circle.
 - [x] Do another infusion (cap water breathing)
 - On Level 4, consider Poisoner, ~~Observant~~, Fey Touched, But really Flames of Phlegethos for a fire focus.
 - We have committed to return to Watcher.
-- We need to take the mushroom to a fairy circle.
 
 
 
