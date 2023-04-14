@@ -58,7 +58,7 @@ Strongheart the paladin is the leader.
 Mercion the cleric.
 Ringulrun the wizard.
 Elkhorn the fighter.
-Molliver the Rogue.
+Molliver the rogue.
 
 
 ## Good advice
@@ -74,6 +74,17 @@ Skabatha Nightshade
 Bavlorna
 Endolyn
 Which are all daughters of Baba-Yaga
+Baba-Yaga is the mother of all witches. She roams the feywild as she is unwelcome most places
+
+## Zybilna
+Is the fourth sister
+Has long white hair
+Has a symbol of protection on her face:
+
+    \|/
+     |
+
+
 
 ### Bavlorna
 Alergic to running wittershins (counter-clockwise)

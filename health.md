@@ -85,7 +85,10 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 -- Sleep
 -- Tasha's Hideous Laughter
 - A scroll of Borrowed Knowledge
-- Boots of Spiderclimb
+- Slippers of Spiderclimb
+- A bag of around 500gp from Pellet-wretch
+- A large green emerald of a Dretch in a cloth bag. Worth about 500gp.
+
 
 
 ### Used

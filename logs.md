@@ -522,7 +522,7 @@ Ink portraits (if we have to look at you, so should you)
 
 We then attended the party having found nothing else of interest.
 
-Everyone is here. Duke Iggwilv is here and happy to see us.
+Everyone is here. Duke Ickrind is here and happy to see us.
 
 
 Gullop enlists Oswald into fighting Morgort in trial by combat.
@@ -892,21 +892,66 @@ Nobody tore up a book that Yarnspinner was reading yesterday "The Adventures of 
 
 As we inspected the magical candle that lights the room, Yarnspinner as he appeared in our dreams, entered the room. Kadayif didn't see him at all. "We can't let Yarnspinner find out about the names." He is the part of Yarnspinner that takes names and helps Yarnspinner write the stories. We killed it and it disappeared.
 
-We checked out the other room, the book-return/reading room. It has a half-full shelf labeled "Please return books here". There is a story "There the Campestri Sing". "Dr. Lorenstein".
+We checked out the other room, the book-return/reading room. It has a half-full shelf labeled "Please return books here". There is a story "Where the Campestri Sing". "Dr. Lorenstein".
 
 Someone is in the eastern room, an awakened brown bear reading "Where the Feywild Things Are". She is having trouble reading "The boy sped through the thorns fast as a hare as he whistled a tune and ran backwards." Her name is Brown Bear. She gives us a scroll of Borrowed Knowledge.
 
 
 Yarnspinner hears from Andrew that we lost our names and was concerned about it. We told him not to worry about it. He wants to detach this place from Thither to prevent evil influences from entering Fabblerise. If you find a mushroom circle, whistle a tune and run backwards, you may be able to return here.
 
-He gives us a set of Boots of Spiderclimb. 
+He gives us a set of Slippers of Spiderclimb which I took.
+
+<hr>
+
+We continue along the river hopefully towards the lake.
+
+An orc warrior runs into us. He carries a greataxe and has many battle scars. His name is Gurk. He said he wanted to join us but he seemed sketchy so we convinced us to not join him.
+
+We run into Pellet-wretch the fairy again. She tells is the Jabberwock sleeps at night in the Palace of the Heart's Desire to north. It used to be a pet of Zybilna's who is the only one who can tame it.
+
+She gives us a bag of 500gp to make up for what she says was an uneven deal. She then left in a different direction than she was heading.
+
+The gold was cursed. It conjures the ghost of a person who haunts the accepter when they sleep. I gave it to Oroonoko since he doesn't sleep. Oswald says it's a raise.
+
+We continue along the river and find a Dretch that had a green emerald in. We killed it. The gem has a memory stored in it. A part of a person. A memory stored about a part of a person's body. It's divination magic.
+
+Kadayif touches the gem. She sees the hut with chicken legs in a different woods. There is a skulled fence and four girls. One is from the previous vision but several years later. The other three girls are monstrous. One is frog-like and laughing (probably Bavlorna). One looks like a doll, with a dress full of petticoats (Skabatha). She has a key in her back and is laughing too. The third is a skeleton covered in scaffolding. Her dress is dark and architectural. On the front of her dress is a little stage where two of her four arms work a puppet show (Endolyn).
+
+Endolyn has told the girl, she has seen the future of how the girl dies. Skabatha lets loose a little clockwork doll that walks forward and stabs the girl with a little sword. Bavlorna says she could turn her into a frog. The girl seethes but says nothing. Her fingers crackle but nothing comes out. All three laugh at her with horrible cackling. Kadayif gave her some rocks of throwing which the girl uses to throw at Bavlorna.
+
+We found the lake but struggle to approach the lake.  There's a big brazier on a little island in the lake. I managed to walk to the island in the lake without too much trouble. I like the brazier with my flamethrower.
+
+Nobody charges from the forest with a dagger attached to his forehead with a belt. The fake horn seems to have tricked the security system to letting him move freely. The trick was having a horn on your forehead.
+
+Lamorna is the unicorns name.
+
+Alexandra Suggested him into giving up. He says his boss Kelek who works for the hags. Kelek hates Ringulrun. He says the Kelek needs the horn to get the staff of power from Ringulrun who is one of the people frozen in time at the Palace of the Heart's Desire.
+
+Nobody is in the League of Malevolence. See the story. Nobody is probably Zarak.
+
+The hags might have a unicorn horn. The shadow traders had one.  
+
+Lamorna says she won't be safe now that Nobody knows how to get through her security system.
+
+We debated if we should kill Nobody. Lamorna puts him to sleep, erases his memory and makes it so that the first creature he sees will be his family. So we dragged him into the forest to be family with Campestri. They have named him John Jacob Jingleheimer Schmidt.
+
+Nobody had a coin that says "League of Malevolence" the other side says "Bad deeds and good rewards"
+
+"I don't know where Skylla has gone, that b has probably betrayed us. Come back to the palace when you get the horn. Let us know if you find any of the other members of Valor's Call."
+
+The hourglass coven stole Lamorna's mate Elidon, and took his horn. They didn't kill him. The horn is the source of a unicorn's power. This pool was her home. Skabatha took him. His horn might be needed to free Zybilna. Larmorna says that Elidon probably does know where his horn is.
+
+When Zybilna ruled Prismir, no one could enter the palace without an invitation. The hags probably don't have that power. Without an archfey, a realm withers and dies. Zybilna is the hags fourth sister but she has long white hair. She has a symbol on her face, a mark of protection. The sign is a fork facing upward.
+
+
 
 
 
 
 ### Todos
 - [ ] Use History check to find out how to use fairy rings to travel. Someone has advantage to make these checks because they read the "Lord of the Fairy Rings" books.
-- Talk to the campestri (the happy mushroom in the jar).
+- [ ] Get the unicorn horn from the shadow traders or anywhere.  
+- [x] Talk to the campestri (the happy mushroom in the jar). (We found it a family of other Campestri near the lake)
 - We need to take the mushroom to a fairy circle.
 - [x] Do another infusion (cap water breathing)
 - On Level 4, consider Poisoner, ~~Observant~~, Fey Touched, But really Flames of Phlegethos for a fire focus.
