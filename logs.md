@@ -943,12 +943,66 @@ The hourglass coven stole Lamorna's mate Elidon, and took his horn. They didn't 
 
 When Zybilna ruled Prismir, no one could enter the palace without an invitation. The hags probably don't have that power. Without an archfey, a realm withers and dies. Zybilna is the hags fourth sister but she has long white hair. She has a symbol on her face, a mark of protection. The sign is a fork facing upward.
 
+<hr>
+
+Mogwort is staying with Larmorna. Lamorna is happy to have company.
+
+We can see the floating islands. We can barely see that the islands are tied together.
+
+Oroonoko dreamed about destitute ghosts because we gave him the cursed coin. Larmorna says the bag of gold needs to go back to Skabatha or passed onto someone else. Larmorna tells us of cave to the north of the floating isles where a man named Nib lives. He was cursed by Skabatha but his work is his own. He collects ghosts. Perhaps he can dispel the curse. She gives us some detail on where to find it.
+
+Oswald falls into a foot shaped ditch. It's a dragon footprint. The footprint was big enough to completely engulf Oswald.
+
+Up ahead we heard hooting and screeching from behind some bushes. I can tell from it's mind that it is confined. It's an owlbear yoked to some kind of chariot.
+
+Kadayif talked to it. The owlbear said the dragon came and burbled. The rider is a fragile elf that does good scritches. The elf wore blue shiny clothes with scales that keep the teeth from crunching. The dragon was skinny and green. It was the Jabberwock. Clapperclaw says Jabberwock is likely to eat people. The elf rider's name is Aelfraed.
+
+The cart has a branch theme on everything. The owlbear finds a busted helmet. There is a lot of blood and a puncture mark on the helmet. The owlbear's name is Juniper, the pretty little branch.     
+
+Something up ahead smells like delicious cooking. There is a campfire with a cauldron and nearby rock with a butter and onions. A lone campestri is dipping itself in the butter with grilled onions. There is a trail off into the forest.
+
+The campestri thinks it is being treated to a spa day. I convinced it that it was going to be eaten. I hid it in the bag of holding. Campestri and mushrooms don't need to breath. A goblin (Krau?) walks out of the woods, is and is disappointed that the mushroom has escaped. He is looking for a Jabberwock dung to grow Twilight Revere.  
+
+We run into a glade of six pixies, near a six inch wedge of wood. They are debating about what the wood is. One of the pixies introduces itself as Caslip. Oswald told them it was a wall measurer. They gave Oswald whistle of summon woodland beings (three pixies only, one hour, doesn't need concentrating)
+
+We find another wanted poster for Will of the Feywild. This one promises the ability to raise the dead. As we pick it up, a dryad accuses us of being mercenaries of the Skabatha. This dryad is separated from it's tree which is sapping the dryad's mind. She mutters that Zybilna will fix it. The trees nearby have been ripped out of the ground and there are only holes left.
+
+The dryad says Skabatha took the trees which she doesn't even need because she makes metal tools. Skabatha rides a wood rocking horse made from the dryad's tree. The big oak used to be a tree.
+
+We eventually come to the shadow of a floating island. There are multiple layers of cliffs and houses. Ewok village. Built for Small people. It is made from trees grown into the cliffs. There are some goblins out for a picnic. It's a goblin village. There is a tether tied to the top of one of the tall houses.
+
+The goblins are quite interested in Juniper, Volt and Clapperclaw. They say we should be quite about Zybilna. They make candy here.
+
+They say we should see the mayor Lobana about going to the islands. She's in the big house on the third level.
+
+Oswald wants to go to the butcher to find food for Juniper. He trades a fake unicorn horn full of candy for 4 meaty haunches.
+
+We can see that the tether is a thick vine.
+
+Lobana welcomes us to Terrace Town and asks us how we take our candy, hard or soft. I ate the candy and my head swelled to twice it's normal size. Lobana complains of patrols from Loomlurch. The patrols are of tin-men that look for children. Benzie's daughter Uvelda was taken. She also likes Zybilna. Zybilna would return poofed children.
+
+There are pixie children who can fly, live up to in the islands. The goblins have many relatives in Yon. She recommends Benzie, who's daughter was taken is good at getting things.
+
+The islands are about 100 feet up. The vine is connected to a post on the top of the island.
+
+We visited Benzie, who has red rimmed eyes. Uvelda was taken a month ago. The tin-men can only see 60ft. The last guy was a big dwarf with big grey beard, Elkhorn. Elkhorn was also trying to free Zybilna and the children. He offers pixie dust.
+
+Gurk and Skabatha were also looking for a genuine unicorn horn. The traders who have a horn are based in Yon. Benzie is a guy of limited imagination. He gives us each a packet of pixie dust to recover his 8 year old daughter.
+
+We hear a drum and a patrol of tin-men enter the village. The drum has arms and legs and is using the arms beat it's drum.
+
+<hr>
+
+
+
 
 
 
 
 
 ### Todos
+- [ ] Go to the north of the islands to find the cave of Nib.
+- [ ] Find Kelek
 - [ ] Use History check to find out how to use fairy rings to travel. Someone has advantage to make these checks because they read the "Lord of the Fairy Rings" books.
 - [ ] Get the unicorn horn from the shadow traders or anywhere.  
 - [x] Talk to the campestri (the happy mushroom in the jar). (We found it a family of other Campestri near the lake)

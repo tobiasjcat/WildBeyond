@@ -31,7 +31,7 @@
 - A cookie cutter shaped like a unicorn.
 - 1 set of false wooden teeth
 - 6x weird teeth
-- Pixie dust. One minute of limited flying. (used to escape from Bavlorna's place)
+- Packets of pixie dust. One minute of limited flying and hovering.
 - Wizard puppet of minor illusion 2x
 - Bells
 - Scatterleaf tea
@@ -88,6 +88,7 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - Slippers of Spiderclimb
 - A bag of around 500gp from Pellet-wretch
 - A large green emerald of a Dretch in a cloth bag. Worth about 500gp.
+- A whistle of Summon Woodland Beings (three pixies only, one hour, doesn't need concentrating)
 
 
 
