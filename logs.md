@@ -979,11 +979,11 @@ Oswald wants to go to the butcher to find food for Juniper. He trades a fake uni
 
 We can see that the tether is a thick vine.
 
-Lobana welcomes us to Terrace Town and asks us how we take our candy, hard or soft. I ate the candy and my head swelled to twice it's normal size. Lobana complains of patrols from Loomlurch. The patrols are of tin-men that look for children. Benzie's daughter Uvelda was taken. She also likes Zybilna. Zybilna would return poofed children.
+Lobana Mossypants welcomes us to Terrace Town and asks us how we take our candy, hard or soft. I ate the candy and my head swelled to twice it's normal size. Lobana complains of patrols from Loomlurch. The patrols are of tin-men that look for children. Benzie's daughter Uvelda was taken. She also likes Zybilna. Zybilna would return poofed children.
 
 There are pixie children who can fly, live up to in the islands. The goblins have many relatives in Yon. She recommends Benzie, who's daughter was taken is good at getting things.
 
-The islands are about 100 feet up. The vine is connected to a post on the top of the island.
+The islands are about 100 feet up. The vine is connected to a post on the top of the island. The islands are an archipelago around the same height.
 
 We visited Benzie, who has red rimmed eyes. Uvelda was taken a month ago. The tin-men can only see 60ft. The last guy was a big dwarf with big grey beard, Elkhorn. Elkhorn was also trying to free Zybilna and the children. He offers pixie dust.
 
@@ -993,15 +993,17 @@ We hear a drum and a patrol of tin-men enter the village. The drum has arms and 
 
 <hr>
 
+We fought the robots. They exploded into fire which nearby burned down a house. The exploding part is a design flaw. They are very poorly constructed. Each is powered by gems. We gave one to the mayor. Their technology is old school. They don't have eyes, but they could probably use blindsight to see 60 ft out but no further sight range. They stopped being able to move when they couldn't hear the drum. The drum is probably only necessary for long range work. Kinda shoddy work.  
 
+We took a long rest but that made Oroonoko even worse since he hasn't been getting sleep.
 
+<hr>
 
-
-
+We committed to going to the cave.  
 
 
 ### Todos
-- [ ] Go to the north of the islands to find the cave of Nib.
+- [ ] Go to the north of the islands to find the cave of Nib to remove the curse of Oroonoko's coin.
 - [ ] Find Kelek
 - [ ] Use History check to find out how to use fairy rings to travel. Someone has advantage to make these checks because they read the "Lord of the Fairy Rings" books.
 - [ ] Get the unicorn horn from the shadow traders or anywhere.  

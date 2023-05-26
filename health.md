@@ -89,6 +89,8 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - A bag of around 500gp from Pellet-wretch
 - A large green emerald of a Dretch in a cloth bag. Worth about 500gp.
 - A whistle of Summon Woodland Beings (three pixies only, one hour, doesn't need concentrating)
+- 5 gems worth 100gp
+- animatronic arms and legs
 
 
 
