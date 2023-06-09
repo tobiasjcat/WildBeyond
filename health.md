@@ -31,7 +31,7 @@
 - A cookie cutter shaped like a unicorn.
 - 1 set of false wooden teeth
 - 6x weird teeth
-- Packets of pixie dust. One minute of limited flying and hovering.
+- Packets of pixie dust. One minute of limited flying and hovering. (Used to get to the archipelago)
 - Wizard puppet of minor illusion 2x
 - Bells
 - Scatterleaf tea
@@ -91,6 +91,8 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - A whistle of Summon Woodland Beings (three pixies only, one hour, doesn't need concentrating)
 - 5 gems worth 100gp
 - animatronic arms and legs
+- Star's favorite toy ball from her mother, Dirlagraun.
+- All-purpose tool +1
 
 
 

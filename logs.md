@@ -999,7 +999,34 @@ We took a long rest but that made Oroonoko even worse since he hasn't been getti
 
 <hr>
 
-We committed to going to the cave.  
+We committed to going to the cave of Nib. The mayor said that this was a good idea to heal Oroonoko. I slipped on a section of friction-less grass. We heard laughing, and saw two little goblin-like people who did the thing. They are boggles.
+
+Boggles are sadness and loneliness create them. Boggles secrete magical oils and are hard to see.
+
+One secretes on sticky oil and the other secretes slick oil. They debate about which one is better and our party votes for slippery so we got a vial of slippery oil as a reward.
+
+We continue toward the cave and see another wanted poster for Will. We arrived at the cave. The woods are still creepy and wrong seeming. Another poster for will.
+
+Inside the cave there are many things shining in the cave. He welcomes us in. The cave is weathered but lit. The reflective things are gold stacked along the ground everywhere. We arrive at an old man wearing a blindfold spinning gold coins into golden thread. There is a loom nearby. He says he is fulling the terms of his curse. He used to be a slumlord and Granny Nightshade.
+
+He says pellet-wretch stole the gold from him. So we returned the gold. He says as long as his ill gotten gains are used for good, they won't be cursed. The ones he's hurt are in his dreams and he has to make amends. He can't stand to make eye-contact with the ghosts that haunt him so he makes a blindfold. He makes a nice surcoat for Oswald after finding out he is a knight. He also gives a him a golden rose. He gives all of us useful items. Including a golden medallion for Juniper that shows how hungry she is.
+
+We return to terrace town and fly up to the archipelago where there is a battle going on between sprites and pixies. The magic is not lethal.
+
+The clouds are like the ocean and makes beach. There is a sky shark patrolling the sky. It's just trawling. There are birds that say they don't know where Will and Little Oak are. The birds say the pixies or the sprites have a looking machine. We walked through some portals to get between the islands.
+
+The pixies and sprites are having a prank war. Both demands the other delivers a gift or lose the prank war. The sprites win and let us lose their telescope.
+
+We spotted Little Oak to the north-east. We can see a little bit of Loomlurch where there is a market happening on one side, a garden on the other. Rivers are getting dried up. Nature is out whack. The market is probably the Candy market.
+
+We found our way to the ground and started heading towards Little Oak.
+
+We come across birds saying "Rude children". Ahead is a tree house and 4 children playing a game. We have found Will. There are four children and Star, the child displacer beast. Star smells her favorite ball in the bag of holding.
+
+Will introduces is to Bobby, Sloan the wood elf and Zennar the orc girl. They have a plan to go back and get the rest of the kids. The invite us up into the treehouse. Inside are living quarters for the children and crude unicorn costume. There is a disassembled tin soldier named Squirt.
+
+They need more parts for Squirt. The only source of the parts they need is from the biggest red-cap who lives in a boat by the shore. Purveyor of lies.
+
 
 
 ### Todos
