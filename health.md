@@ -85,15 +85,15 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 -- Sleep
 -- Tasha's Hideous Laughter
 - A scroll of Borrowed Knowledge
-- Slippers of Spiderclimb
-- A bag of around 500gp from Pellet-wretch
+- Slippers of Spiderclimb (worn by Pytchley)
+- A bag of around 500gp from Pellet-wretch (given back to Nib)
 - A large green emerald of a Dretch in a cloth bag. Worth about 500gp.
 - A whistle of Summon Woodland Beings (three pixies only, one hour, doesn't need concentrating)
 - 5 gems worth 100gp
 - animatronic arms and legs
 - Star's favorite toy ball from her mother, Dirlagraun.
 - All-purpose tool +1
-
+- Loot from the Never Landing: four backpacks, four bedrolls, blankets, a 10-foot chain, a climber’s kit, a crowbar, two healer’s kits, a hooded lantern, 6 pitons, 50 feet of silk rope, two two-person tents, a spyglass, and two waterskins.
 
 
 ### Used

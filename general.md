@@ -89,6 +89,9 @@ Has a symbol of protection on her face:
 ### Bavlorna
 Alergic to running wittershins (counter-clockwise)
 
+### Skabatha
+Has True Sight
+
 ## Feywild laws
 - Hospitality
 - Reciprocity

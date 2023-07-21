@@ -1025,20 +1025,56 @@ We come across birds saying "Rude children". Ahead is a tree house and 4 childre
 
 Will introduces is to Bobby, Sloan the wood elf and Zennar the orc girl. They have a plan to go back and get the rest of the kids. The invite us up into the treehouse. Inside are living quarters for the children and crude unicorn costume. There is a disassembled tin soldier named Squirt.
 
-They need more parts for Squirt. The only source of the parts they need is from the biggest red-cap who lives in a boat by the shore. Purveyor of lies.
+They need more parts for Squirt. The only source of the parts they need is from the Big Red, biggest red-cap who lives in a boat by the shore. Purveyor of lies.
+
+<hr>
+
+Will wants us to steal parts from Big Red and probably kill him. Will says Elkhorn the fighter came through here, was old and friendly but condescending.
+
+Bobby the little dwarf boy, approaches. Short even for a dwarf. He saws Squirt tells stories from skills he learned from the theater in Yon.
+
+The kids gave us a list of specific parts we need.
+
+We tried to be sneaky in our approach but did only okay. We found the ship beached with a broken mast and looking run down. A small red cap is singing while swabbing the deck. The ship's name is rubbed off on some parts but we can see `ever Landin`.
+
+In the captain's quarters is a largish red cap whose quarters are plastered with wanted posters of Will. The rec cap has one hand. The other hand has been replaced with a nasty looking hook.
+
+Big red claims Will was called Mugan when he worked for Skabatha. Claims he was her right hand man.
+
+What does it mean if a child fight Skabatha, if Zybilna outlaws fighting? When a child in Prismir is harmed they are frozen in another world. When they are instead an Oni.
+
+We learned that Skabatha had four helpers  
+Pet wyvern Craddletharl.  
+Henchwoman, a living doll, Pincushion.  
+A goblin with a for candied apple for a head, chucklehead.  
+An enforcer, an Oni named Mugan  
+
+We know that Oni are shapeshifters with a variety of abilities.
+
+We made a deal with Big Red that he would give us the robot parts if Kadayif lowered her spike growth spell. But then instead he locked Pytchley into the stern room with a giant crocodile.
+
+When we killed Big Red, the giant crocodile ate his body and left us be. I pulled a key out of the crocodile teeth and it opened a drawer in the captain's quarters and opened it to find the robot parts.
+
+We learned from the Captain's log that the red cap that was swabbing the deck was named Squeamish. Red Cap is obsessed with Mugan/Will. Big Red can sense Mugan or says he can. He doesn't know why Mugan is helping the children escape.
+
+Skabatha has True Sight.
+
+<hr>
+
+Will he or Will Oni?
 
 
 
 ### Todos
-- [ ] Go to the north of the islands to find the cave of Nib to remove the curse of Oroonoko's coin.
-- [ ] Find Kelek
-- [ ] Use History check to find out how to use fairy rings to travel. Someone has advantage to make these checks because they read the "Lord of the Fairy Rings" books.
+- [ ] Find Kelek, the leader of the league of Malevolence  
+- [ ] Use History check to find out how to use fairy rings to travel. Someone has advantage to make these checks because they read the "Lord of the Fairy Rings" books.  
 - [ ] Get the unicorn horn from the shadow traders or anywhere.  
+- [x] Go to the north of the islands to find the cave of Nib to remove the curse of Oroonoko's coin.
 - [x] Talk to the campestri (the happy mushroom in the jar). (We found it a family of other Campestri near the lake)
 - We need to take the mushroom to a fairy circle.
 - [x] Do another infusion (cap water breathing)
 - On Level 4, consider Poisoner, ~~Observant~~, Fey Touched, But really Flames of Phlegethos for a fire focus.
-- We have committed to return to Watcher.
+- [ ] We have committed to return to Watcher.
 
 
 
