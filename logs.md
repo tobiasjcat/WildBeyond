@@ -1095,6 +1095,13 @@ I read his mind to find that he is probably Mugan, he wonders how we knew, and t
 Will tells us his fantastic/optimistic plan. Be aware of Sowpig.
 
 
+<hr>
+
+We are going to be setting the animals free and setting off the screaming scarecrows as a distraction to let the kids go. 
+
+
+- [ ] create a plan with expectation of being level 5
+
 
 
 ### Todos
