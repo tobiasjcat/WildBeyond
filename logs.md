@@ -939,17 +939,17 @@ Nobody had a coin that says "League of Malevolence" the other side says "Bad dee
 
 "I don't know where Skylla has gone, that b has probably betrayed us. Come back to the palace when you get the horn. Let us know if you find any of the other members of Valor's Call."
 
-The hourglass coven stole Lamorna's mate Elidon, and took his horn. They didn't kill him. The horn is the source of a unicorn's power. This pool was her home. Skabatha took him. His horn might be needed to free Zybilna. Larmorna says that Elidon probably does know where his horn is.
+The hourglass coven stole Lamorna's mate Elidon, and took his horn. They didn't kill him. The horn is the source of a unicorn's power. This pool was her home. Skabatha took him. His horn might be needed to free Zybilna. Lamorna says that Elidon probably does know where his horn is.
 
 When Zybilna ruled Prismir, no one could enter the palace without an invitation. The hags probably don't have that power. Without an archfey, a realm withers and dies. Zybilna is the hags fourth sister but she has long white hair. She has a symbol on her face, a mark of protection. The sign is a fork facing upward.
 
 <hr>
 
-Mogwort is staying with Larmorna. Lamorna is happy to have company.
+Mogwort is staying with Lamorna. Lamorna is happy to have company.
 
 We can see the floating islands. We can barely see that the islands are tied together.
 
-Oroonoko dreamed about destitute ghosts because we gave him the cursed coin. Larmorna says the bag of gold needs to go back to Skabatha or passed onto someone else. Larmorna tells us of cave to the north of the floating isles where a man named Nib lives. He was cursed by Skabatha but his work is his own. He collects ghosts. Perhaps he can dispel the curse. She gives us some detail on where to find it.
+Oroonoko dreamed about destitute ghosts because we gave him the cursed coin. Lamorna says the bag of gold needs to go back to Skabatha or passed onto someone else. Lamorna tells us of cave to the north of the floating isles where a man named Nib lives. He was cursed by Skabatha but his work is his own. He collects ghosts. Perhaps he can dispel the curse. She gives us some detail on where to find it.
 
 Oswald falls into a foot shaped ditch. It's a dragon footprint. The footprint was big enough to completely engulf Oswald.
 
@@ -1044,7 +1044,7 @@ Big red claims Will was called Mugan when he worked for Skabatha. Claims he was 
 What does it mean if a child fight Skabatha, if Zybilna outlaws fighting? When a child in Prismir is harmed they are frozen in another world. When they are instead an Oni.
 
 We learned that Skabatha had four helpers  
-Pet wyvern Craddletharl.  
+Pet wyvern Craddleclaw.  
 Henchwoman, a living doll, Pincushion.  
 A goblin with a for candied apple for a head, chucklehead.  
 An enforcer, an Oni named Mugan  
@@ -1062,6 +1062,38 @@ Skabatha has True Sight.
 <hr>
 
 Will he or Will Oni?
+Will has visited Lamorna, with his unicorn costume.
+Try to read his mind.
+
+We investigated the conspiracy board. The yarn in made from the caps of other redcaps. The entire place smalls. Most of the papers are wanted posters. A large section of the posters are defaced in juvenile way. The posters defaced in a childish way are done in one pen. Another pen has been used to deface the posters in more sinister ways.
+
+"Why'd he leave?" - Big Red wrote this and "What is guilt, why feel bad when do things"
+Another paper is about Onis: Oni, glaive, shapechanger, regeneration, claws, can-fly.
+
+There is a crudely drawn map of thither that gives us a headache.
+
+On the way back to Wil we passed through a darker section of forest. Kadayif got a veyr specific sense of Heebie-jeebies. We may be approaching Loomlurch, and she hears the sounds of a market. Possibly the goblin candy market. Oswald and I felt like the things we were missing is very close.
+
+We wanted to stop at the rocky outcropping. There is light pouring out of the hole. As we approach, a small pink fairy-dragon comes out to meet us wearing a cloak and with a staff. The cloak is fashionably purple.
+
+She says she's here because she's a warlock of Zybilna. She is looking to put out her candle, a symbol of being a warlock. She's looking to retire. She wants to get into pottery. Her name is Wolram. All warlocks to Zybilna have candles here. There's a demon that guards the candles.
+
+Wolram wants us to fight the demon so that she can put out her candle. She thinks the demon isn't necessary for protecting the candles. Prismir hasn't been here a long time. Wolram is curious about Zybilna was doing before creating Prismir. She's having a crisis of faith.  
+
+I climbed up the cliff face with my slippers of spiderclimb to hammer pitons into the wall to let the rest of the party climb up. There are thousands of candles here. Oswald held the demon down while Wolram put out her candle. Alexandra touched the gem in the demon and we were transported.
+
+We are brought to the barn with normal horses at night. The hut has skulls on it. We see the young girl with dark hair but she now's a young woman. She's sneaking off with books and a few supplies. We hear voices in the woods. We saw a wizard in the woods on the road. He's traveling with a party of some hired muscle and also mostly spell casters.
+
+The woman has stolen the best conjuration books from the household and wants to meet the rest of the mages. She has drugged the people in the house to get away. She makes it to the road and we hear hushed voices muttering from the caravan. A large silent explosion goes off followed by laughter and clapping. We are filled with the emotion that only we matter, feel strong sense of selfishness.
+
+We continue on to Little Oak. We are met by the young wood elf girl, Sloan. We returned the robot parts. Will says they need boggle-oil.
+
+Redcaps will explode if they receive a gift because of the obligation to give a gift back.  
+
+I read his mind to find that he is probably Mugan, he wonders how we knew, and thinks that the kids can't find out.  
+
+Will tells us his fantastic/optimistic plan. Be aware of Sowpig.
+
 
 
 

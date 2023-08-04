@@ -53,7 +53,7 @@ Hither - past
 Thither - current
 Yon - future
 
-Valors Call adventuring party:
+Valor's Call adventuring party:
 Strongheart the paladin is the leader.
 Mercion the cleric.
 Ringulrun the wizard.
@@ -91,6 +91,9 @@ Alergic to running wittershins (counter-clockwise)
 
 ### Skabatha
 Has True Sight
+Skabatha forgets the first creatures she sees when she wakes up, although her memory of it returns each night when she sleeps. A creature forgotten by Skabatha in this manner is invisible to her
+She can fly when on her rocking horse
+She can awaken things/plants
 
 ## Feywild laws
 - Hospitality

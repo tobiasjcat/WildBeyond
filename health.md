@@ -93,7 +93,7 @@ A handkerchief of fine moth silk which allow the caster advantage on saves again
 - animatronic arms and legs
 - Star's favorite toy ball from her mother, Dirlagraun.
 - All-purpose tool +1
-- Loot from the Never Landing: four backpacks, four bedrolls, blankets, a 10-foot chain, a climber’s kit, a crowbar, two healer’s kits, a hooded lantern, 6 pitons, 50 feet of silk rope, two two-person tents, a spyglass, and two waterskins.
+- Loot from the Never Landing: four backpacks, four bedrolls, blankets, a 10-foot chain, a climber’s kit, a crowbar, two healer’s kits (Pytchley, Alexandra), a hooded lantern, 6 pitons, 50 feet of silk rope, two two-person tents, a spyglass, and two waterskins.
 
 
 ### Used
