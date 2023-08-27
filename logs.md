@@ -1097,10 +1097,32 @@ Will tells us his fantastic/optimistic plan. Be aware of Sowpig.
 
 <hr>
 
-We are going to be setting the animals free and setting off the screaming scarecrows as a distraction to let the kids go. 
+We are going to be setting the animals free and setting off the screaming scarecrows as a distraction to let the kids go.
+
+Zybilna contacts Alexandra through her book to say she's not the full Zybilna. She was experimenting with putting pieces of herself in different things while working towards self-perfection. She must assume she am a relic of this process. She's gathered what little power she can for Alexandra. Zybilna has wormed her way into someone's head in Loomlurch. He has a hole in his head where the worm entered. Perhaps Chucklehead. Zybilna says to mind the pig, she'll make things easier for us. She's the key to flipping the wormed man.
+
+Alexandra and I planned on scouting out Loomlurch before the child heist. Pellet-wretch is at the market running a stall selling people meat (Stallent Green). One of the stalls is the ones we bought from earlier. They gave us a bag of candies. They tell us about the magic mushrooms. Chucklehead could set up a meeting for us to buy her special mushrooms.
+
+Alexandra went to talk to Chucklehead who is standing nearby. Chucklehead is thinking about guilt and Philomenia, a little halfling girl who is sad and reminds him of his own daughter. Alexandra prods him with questions to make him uncomfortable about mistreating children. She is making him feel extremely guilty. He tells us her schedule: she wakes early to garden, then kitchen, then study, then sewing room for supervising, then goes to bed.      
+
+I looked through the windows and saw children in the workshop. I tried to convince Chucklehead to tell his guilt to an animal. He cares for Philomenia who cares for the animals and loves the baby pig "Oink".
+
+Our plan is for Alexandra to enter the workshop as a tourist with Chucklehead leading the way. When she's in the workshop the Getaway Gang will cause chaos to draw out Skabatha and her guards. Then the three of us will enter Loomlurch from the other side and sweep out the kids.  
+
+Alexandra convinced Chucklehead to release the three children in the workshop. We picked our way into the kitchen where a human child is chained to the wall. There is a grey bearded dwarven man padlocked under the grate, Elkhorns. Elkhorn woke the small wyrmling in the kitchen so we fought it and defeated it.
+
+In the next room for us, there are 5 animated portraits of the hags, Zybilna and Baba-yaga. Upstairs there are two gnome and one goblin children. But also there are Boogles we killed and harvested the oil from.  
+
+We ran into pin cushion in the sewing room yelling at two children for being bad at sewing.
 
 
-- [ ] create a plan with expectation of being level 5
+Child Inventory:
+Three kids in the workshop
+One kid in the kitchen
+three kids in the weaving room
+One sick kid and Pud in the dorms.
+Two kids in the sewing room
+
 
 
 
